@@ -1,0 +1,1629 @@
+<!DOCTYPE html><html lang="sl-SI"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1"><link rel="profile" href="//gmpg.org/xfn/11"><meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' /><link rel="alternate" hreflang="sl" href="https://www.fis.unm.si" /><link rel="alternate" hreflang="en" href="https://www.fis.unm.si/?lang=en" /> <!-- Optimized by SG Optimizer plugin version - 5.7.20 --> <!-- This site is optimized with the Yoast SEO plugin v16.2 - https://yoast.com/wordpress/plugins/seo/ --><title>Študiraj v novem mestu - FIŠ - Fakulteta za informacijske študije</title><link rel="stylesheet" id="siteground-optimizer-combined-css-cf927008fdd7cbd24ba1050c93554fc5" href="https://www.fis.unm.si/media/siteground-optimizer-assets/siteground-optimizer-combined-css-cf927008fdd7cbd24ba1050c93554fc5.css" media="all" /><link rel="canonical" href="https://www.fis.unm.si/" /><meta property="og:locale" content="sl_SI" /><meta property="og:type" content="website" /><meta property="og:title" content="Študiraj v novem mestu - FIŠ - Fakulteta za informacijske študije" /><meta property="og:description" content="Študijski programi Dodiplomski Računalništvo in spletne tehnologije (VS) Informatika v sodobni družbi (VS) Informatika v sodobni družbi (UN) Magistrski Računalništvo in spletne tehnologije Informatika v sodobni družbi Podatkovne znanosti Doktorski Informacijska družba Mnenja študentov in diplomantov &#8220;Odločitev za FIŠ je bila pravilna.&#8221; Helena Čebulin, magistrski študijski program Informatika v sodobni družbi &#8220;Odnosi s profesorji in..." /><meta property="og:url" content="https://www.fis.unm.si/" /><meta property="og:site_name" content="FIŠ - Fakulteta za informacijske študije" /><meta property="article:modified_time" content="2021-04-07T11:47:15+00:00" /><meta property="og:image" content="https://www.fis.unm.si/wp-content/uploads/2020/11/09.jpg" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:label1" content="Est. reading time"><meta name="twitter:data1" content="4 minute"> <script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.fis.unm.si/#website","url":"https://www.fis.unm.si/","name":"FI\u0160 - Fakulteta za informacijske \u0161tudije","description":"","potentialAction":[{"@type":"SearchAction","target":"https://www.fis.unm.si/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"sl-SI"},{"@type":"ImageObject","@id":"https://www.fis.unm.si/#primaryimage","inLanguage":"sl-SI","url":"https://www.fis.unm.si/media/2020/11/09.jpg","contentUrl":"https://www.fis.unm.si/media/2020/11/09.jpg","width":768,"height":435},{"@type":"WebPage","@id":"https://www.fis.unm.si/#webpage","url":"https://www.fis.unm.si/","name":"\u0160tudiraj v novem mestu - FI\u0160 - Fakulteta za informacijske \u0161tudije","isPartOf":{"@id":"https://www.fis.unm.si/#website"},"primaryImageOfPage":{"@id":"https://www.fis.unm.si/#primaryimage"},"datePublished":"2020-10-29T10:09:14+00:00","dateModified":"2021-04-07T11:47:15+00:00","breadcrumb":{"@id":"https://www.fis.unm.si/#breadcrumb"},"inLanguage":"sl-SI","potentialAction":[{"@type":"ReadAction","target":["https://www.fis.unm.si/"]}]},{"@type":"BreadcrumbList","@id":"https://www.fis.unm.si/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"https://www.fis.unm.si/#webpage"}}]}]}</script> <!-- / Yoast SEO plugin. --><link rel='dns-prefetch' href='//cdn.datatables.net' /><link rel='dns-prefetch' href='//fonts.googleapis.com' /><link rel="alternate" type="application/rss+xml" title="FIŠ - Fakulteta za informacijske študije &raquo; Vir" href="https://www.fis.unm.si/feed/" /> <style id='rs-plugin-settings-inline-css' type='text/css'> #rs-demo-id {} </style> <style id='wpml-legacy-horizontal-list-0-inline-css' type='text/css'> .wpml-ls-statics-footer a {color:#444444;background-color:#ffffff;}.wpml-ls-statics-footer a:hover,.wpml-ls-statics-footer a:focus {color:#000000;background-color:#eeeeee;}.wpml-ls-statics-footer .wpml-ls-current-language>a {color:#444444;background-color:#ffffff;}.wpml-ls-statics-footer .wpml-ls-current-language:hover>a, .wpml-ls-statics-footer .wpml-ls-current-language>a:focus {color:#000000;background-color:#eeeeee;} </style> <style id='wpml-menu-item-0-inline-css' type='text/css'> .wpml-ls-slot-2, .wpml-ls-slot-2 a, .wpml-ls-slot-2 a:visited{color:#2c1764;}.wpml-ls-slot-2:hover, .wpml-ls-slot-2:hover a, .wpml-ls-slot-2 a:hover{color:#75ae1d;}.wpml-ls-slot-2.wpml-ls-current-language, .wpml-ls-slot-2.wpml-ls-current-language a, .wpml-ls-slot-2.wpml-ls-current-language a:visited{color:#2c1764;}.wpml-ls-slot-2.wpml-ls-current-language:hover, .wpml-ls-slot-2.wpml-ls-current-language:hover a, .wpml-ls-slot-2.wpml-ls-current-language a:hover{color:#75ae1d;}.wpml-ls-slot-2.wpml-ls-current-language .wpml-ls-slot-2, .wpml-ls-slot-2.wpml-ls-current-language .wpml-ls-slot-2 a, .wpml-ls-slot-2.wpml-ls-current-language .wpml-ls-slot-2 a:visited{color:#2c1764;}.wpml-ls-slot-2.wpml-ls-current-language .wpml-ls-slot-2:hover, .wpml-ls-slot-2.wpml-ls-current-language .wpml-ls-slot-2:hover a, .wpml-ls-slot-2.wpml-ls-current-language .wpml-ls-slot-2 a:hover {color:#75ae1d;} </style><link rel='stylesheet' id='dataTables-css'  href='//cdn.datatables.net/1.10.20/css/jquery.dataTables.min.css?ver=5.7.2' type='text/css' media='all' /><link rel='stylesheet' id='studio-fonts-css'  href='//fonts.googleapis.com/css?family=Rubik%3A300%2C400%2C500%2C600%2C700%2C900%7CNunito%3A300%2C400%2C500%2C600%2C700%2C900&#038;ver=1.0.0' type='text/css' media='all' /> <style id='elementor-frontend-inline-css' type='text/css'> @font-face{font-family:eicons;src:url(https://www.fis.unm.si/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.10.0);src:url(https://www.fis.unm.si/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.10.0#iefix) format("embedded-opentype"),url(https://www.fis.unm.si/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.10.0) format("woff2"),url(https://www.fis.unm.si/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.10.0) format("woff"),url(https://www.fis.unm.si/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.10.0) format("truetype"),url(https://www.fis.unm.si/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.10.0#eicon) format("svg");font-weight:400;font-style:normal} </style><link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRubik%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=auto&#038;ver=5.7.2' type='text/css' media='all' /> <script type='text/javascript' src='https://www.fis.unm.si/wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script> <script type='text/javascript' src='https://www.fis.unm.si/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script> <script defer type='text/javascript' src='https://www.fis.unm.si/wp-content/plugins/revslider/public/assets/js/rbtools.min.js?ver=6.3.1' id='tp-tools-js'></script> <script defer type='text/javascript' src='https://www.fis.unm.si/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.3.1' id='revmin-js'></script> <script defer type='text/javascript' src='https://www.fis.unm.si/media/siteground-optimizer-assets/rsaddons-frontend-pro.min.js?ver=1' id='rsaddons-frontend-pro-js'></script><link rel="https://api.w.org/" href="https://www.fis.unm.si/wp-json/" /><link rel="alternate" type="application/json" href="https://www.fis.unm.si/wp-json/wp/v2/pages/8504" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.fis.unm.si/xmlrpc.php?rsd" /><link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.fis.unm.si/wp-includes/wlwmanifest.xml" /><meta name="generator" content="WordPress 5.7.2" /><link rel='shortlink' href='https://www.fis.unm.si/' /><link rel="alternate" type="application/json+oembed" href="https://www.fis.unm.si/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.fis.unm.si%2F" /><link rel="alternate" type="text/xml+oembed" href="https://www.fis.unm.si/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.fis.unm.si%2F&#038;format=xml" /><meta name="framework" content="Redux 4.1.26" /><meta name="generator" content="WPML ver:4.4.10 stt:1,46;" /> <!-- Global site tag (gtag.js) - Google Analytics --> <script async src="https://www.googletagmanager.com/gtag/js?id=UA-142506249-1"></script> <script> window.dataLayer = window.dataLayer || [];
+ function gtag(){dataLayer.push(arguments);}
+ gtag('js', new Date());  gtag('config', 'UA-142506249-1'); </script><meta name="generator" content="Powered by Slider Revolution 6.3.1 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." /><link rel="icon" href="https://www.fis.unm.si/media/2020/12/favicon.ico" sizes="32x32" /><link rel="icon" href="https://www.fis.unm.si/media/2020/12/favicon.ico" sizes="192x192" /><link rel="apple-touch-icon" href="https://www.fis.unm.si/media/2020/12/favicon.ico" /><meta name="msapplication-TileImage" content="https://www.fis.unm.si/media/2020/12/favicon.ico" /> <script type="text/javascript">function setREVStartSize(e){
+ //window.requestAnimationFrame(function() { 
+ window.RSIW = window.RSIW===undefined ? window.innerWidth : window.RSIW; 
+ window.RSIH = window.RSIH===undefined ? window.innerHeight : window.RSIH; 
+ try { 
+ var pw = document.getElementById(e.c).parentNode.offsetWidth,
+ newh;
+ pw = pw===0 || isNaN(pw) ? window.RSIW : pw;
+ e.tabw = e.tabw===undefined ? 0 : parseInt(e.tabw);
+ e.thumbw = e.thumbw===undefined ? 0 : parseInt(e.thumbw);
+ e.tabh = e.tabh===undefined ? 0 : parseInt(e.tabh);
+ e.thumbh = e.thumbh===undefined ? 0 : parseInt(e.thumbh);
+ e.tabhide = e.tabhide===undefined ? 0 : parseInt(e.tabhide);
+ e.thumbhide = e.thumbhide===undefined ? 0 : parseInt(e.thumbhide);
+ e.mh = e.mh===undefined || e.mh=="" || e.mh==="auto" ? 0 : parseInt(e.mh,0); 
+ if(e.layout==="fullscreen" || e.l==="fullscreen") 
+ newh = Math.max(e.mh,window.RSIH); 
+ else{ 
+ e.gw = Array.isArray(e.gw) ? e.gw : [e.gw];
+ for (var i in e.rl) if (e.gw[i]===undefined || e.gw[i]===0) e.gw[i] = e.gw[i-1]; 
+ e.gh = e.el===undefined || e.el==="" || (Array.isArray(e.el) && e.el.length==0)? e.gh : e.el;
+ e.gh = Array.isArray(e.gh) ? e.gh : [e.gh];
+ for (var i in e.rl) if (e.gh[i]===undefined || e.gh[i]===0) e.gh[i] = e.gh[i-1]; 
+ var nl = new Array(e.rl.length),
+ ix = 0, 
+ sl; 
+ e.tabw = e.tabhide>=pw ? 0 : e.tabw;
+ e.thumbw = e.thumbhide>=pw ? 0 : e.thumbw;
+ e.tabh = e.tabhide>=pw ? 0 : e.tabh;
+ e.thumbh = e.thumbhide>=pw ? 0 : e.thumbh; 
+ for (var i in e.rl) nl[i] = e.rl[i]<window.RSIW ? 0 : e.rl[i];
+ sl = nl[0]; 
+ for (var i in nl) if (sl>nl[i] && nl[i]>0) { sl = nl[i]; ix=i;} 
+ var m = pw>(e.gw[ix]+e.tabw+e.thumbw) ? 1 : (pw-(e.tabw+e.thumbw)) / (e.gw[ix]); 
+ newh =  (e.gh[ix] * m) + (e.tabh + e.thumbh);
+ } 
+ if(window.rs_init_css===undefined) window.rs_init_css = document.head.appendChild(document.createElement("style")); 
+ document.getElementById(e.c).height = newh+"px";
+ window.rs_init_css.innerHTML += "#"+e.c+"_wrapper { height: "+newh+"px }"; 
+ } catch(e){
+ console.log("Failure at Presize of Slider:" + e)
+ } 
+ //});
+ };</script> <style type="text/css" id="wp-custom-css"> #rs-header.header-style3 .menu-sticky .menu-area {
+ background: transparent;
+}
+.rs-newsletter {
+ margin-bottom: 0;
+ position: absolute;
+ z-index: 10;
+ transform: translateY(-50%);
+ width: 100%;
+}  .single-post .breadcrumbs-inner .page-title{
+ word-break: break-word;
+} </style> <!-- Typography --> <style> body{
+ background:#FFFFFF;
+ color:#333333 !important; 
+ font-size: 16px !important;
+ }  body.single-teams{
+ background:#FFFFFF;
+ }  h1{
+ color:#101010;				font-size:45px; 
+ line-height:56px; 
+ }  h2{
+ color:#101010; 
+ font-size:36px; 
+ line-height:40px			}  h3{
+ color:#101010 ; 
+ font-size:28px; 
+ line-height:32px;
+ }  h4{
+ color:#101010;
+ font-size:20px; 
+ line-height:28px; 
+ }  h5{
+ color:#101010;
+ font-size:20px; 
+ line-height:28px;
+ }  h6{
+ color:#101010 ;
+ font-size:18px; 
+ line-height:20px;
+ }  .menu-area .navbar ul li > a,
+ .sidenav .widget_nav_menu ul li a{
+ font-size:14px;
+ }  #rs-header .toolbar-area .toolbar-contact ul.rs-contact-info li,
+ #rs-header .toolbar-area .toolbar-contact ul.rs-contact-info li a, 
+ #rs-header .toolbar-area .toolbar-contact ul li a,
+ #rs-header .toolbar-area .toolbar-contact ul li, #rs-header .toolbar-area{
+ color:#FFFFFF;
+ }  #rs-header.header-transparent .toolbar-area .toolbar-contact ul.rs-contact-info li,
+ #rs-header.header-transparent .toolbar-area .toolbar-contact ul.rs-contact-info li i,
+ #rs-header.header-transparent .toolbar-area .toolbar-contact ul.rs-contact-info li a,
+ #rs-header.header-style-4 .btn_quote .toolbar-sl-share ul li a
+ {
+ color: #FFFFFF			} 
+ #rs-header.header-transparent .toolbar-area .toolbar-contact ul.rs-contact-info li:hover a,
+ #rs-header.header-style-4 .btn_quote .toolbar-sl-share ul li a:hover{
+ color: #D1D1D1		} 
+ #rs-footer{
+ background-repeat:no-repeat !important;
+ }  #rs-footer{
+ background-size:cover !important;
+ } 
+ .rs-newsletter .newsletter-wrap{
+ background:#609916;
+ } 
+ #rs-header .menu-sticky .menu-area, #rs-header.header-style3 .menu-sticky .menu-area{
+ background:#FFFFFF;
+ }  .tops-btn .quote-buttons{
+ background:#609916;
+ } 
+ .tops-btn .quote-buttons{
+ color:#FFFFFF;
+ } 
+ .toolbar-area .toolbar-contact i, 
+ .toolbar-area .opening i, 
+ .toolbar-area .opening i:before, 
+ .toolbar-area .toolbar-contact i:before{
+ color:#FFFFFF;
+ }
+ .toolbar-area .toolbar-sl-share i, 
+ .toolbar-area .toolbar-sl-share i:before{
+ color:#FFFFFF;
+ }  .toolbar-area .toolbar-sl-share i:hover, .toolbar-area .toolbar-sl-share a:hover i:before{
+ color:#D1D1D1;
+ } 
+ .menu-area .navbar ul li ul.sub-menu{
+ border-color:transparent;
+ } 
+ header#rs-header.header-style-4 .sidebarmenu-area{
+ background:#FFFFFF;
+ } 
+ .menu-wrap-off .inner-offcan .nav-link-container .close-button{
+ background:#75AE1D;
+ } 
+ #rs-header .toolbar-area .toolbar-contact ul li,
+ #rs-header.header-style5 .toolbar-area,
+ #rs-header.header-style5 .toolbar-area .opening,
+ #rs-header.header-style5 .toolbar-area .toolbar-contact ul li,
+ #rs-header .toolbar-area .opening{
+ border-color:#609916;
+ }  #rs-header .toolbar-area .toolbar-contact ul.rs-contact-info li a,
+ #rs-header .toolbar-area .toolbar-contact ul li a,
+ #rs-header .toolbar-area .tops-btn .btn_login a,
+ #rs-header .toolbar-area .toolbar-contact ul li i,
+ #rs-header .toolbar-area .toolbar-sl-share ul li a i{
+ color:#FFFFFF;
+ }  #rs-header .toolbar-area .toolbar-contact ul.rs-contact-info li a:hover,
+ #rs-header .toolbar-area .toolbar-sl-share ul li a.quote-buttons:hover,
+ #rs-header .toolbar-area .toolbar-sl-share ul li a.quote-buttons:before,
+ #rs-header .toolbar-area .toolbar-contact ul li a:hover,
+ #rs-header .toolbar-area .tops-btn .btn_login a:hover, 
+ #rs-header .toolbar-area .toolbar-sl-share ul li a i:hover{
+ color:#D1D1D1;
+ }
+ #rs-header .toolbar-area{
+ background:#609916;
+ } 
+ .mobile-menu-container div ul > li.current_page_parent > a,
+ #rs-header.header-transparent .menu-area .navbar ul li.current-menu-ancestor a, 
+ #rs-header.header-transparent .menu-area .navbar ul li.current_page_item a,
+ .menu-area .navbar ul.menu > li.current_page_item > a,
+ .menu-area .navbar ul li.current-menu-ancestor a, .menu-area .navbar ul li.current_page_item a,
+ .menu-area .navbar ul li ul.sub-menu > li.menu-item-has-children > a:before
+ {
+ color: #75AE1D;
+ } 
+ .menu-area .navbar ul > li.menu-item-has-children.hover-minimize > a:after{
+ background: #75AE1D !important;
+ }  .menu-area .navbar ul > li.menu-item-has-children.hover-minimize:hover > a:after{
+ background: #75AE1D !important;
+ }  .menu-area .navbar ul li:hover a:before{
+ color: #75AE1D;
+ }  .menu-area .navbar ul li:hover > a, 
+ .mobile-menu-container div ul li a:hover, 
+ #rs-header.header-style5 .header-inner.menu-sticky.sticky .menu-area .navbar ul li:hover > a,
+ #rs-header.header-style-4 .menu-area .menu li:hover > a,
+ #rs-header .sticky_search:hover i::before, 
+ #rs-header.header-style-4 .header-inner .menu-area .navbar ul li:hover a,
+ #rs-header.header-style-4 .menu-area .navbar ul li:hover a:before,
+ .menu-cart-area i:hover,
+ #rs-header.header-style1 .category-menu .menu li:hover:after,
+ #rs-header.header1.header-style1 .menu-area .navbar ul li:hover a,
+ #rs-header.header-style-3.header-style-2 .sticky-wrapper .menu-area .navbar ul li:hover > a
+ {
+ color: #75AE1D;
+ }  .nav-link-container .nav-menu-link:hover span,
+ .single-header.header1.header-style1 .menu-area .navbar ul > li.menu-item-has-children.hover-minimize:hover > a::after{
+ background: #75AE1D;
+ }  .menu-area .navbar ul li a, 
+ #rs-header .sticky_search i::before,
+ .menu-cart-area i,
+ #rs-header.header1.header-style1 .sticky_search i::before,
+ #rs-header.header1.header-style1 .menu-area .navbar ul li a,
+ body #rs-header.header-style-4.header-style6 .category-menu .menu li::after,
+ #rs-header.header-style1.header1 .btn_apply a, 
+ #rs-header.header-style1 .category-menu .menu li::after, 
+ #rs-header.header-style-4 .category-menu .menu li::after,
+ .menu-cart-area i, #rs-header.header-transparent .menu-area.dark .menu-cart-area i
+ {
+ color: #58585A; 
+ }  .nav-link-container .nav-menu-link span,
+ #rs-header.header1.header-style1 .nav-link-container .nav-menu-link span, 
+ #rs-header.header1.header-style1 .nav-link-container .nav-menu-link span{
+ background: #58585A; 
+ }  #rs-header.header-transparent .menu-area.dark .navbar ul.menu > li.current_page_item > a::before, 
+ #rs-header.header-transparent .menu-area.dark .navbar ul.menu > li.current_page_item > a::after, 
+ #rs-header.header-transparent .menu-area.dark .navbar ul.menu > li > a::before,
+ #rs-header.header-transparent .menu-area.dark .navbar ul.menu > li > a::after,
+ #rs-header.header-transparent .menu-area.dark .navbar ul.menu > li > a, 
+ #rs-header.header-transparent .menu-area.dark .menu-responsive .sidebarmenu-search .sticky_search .fa
+ {
+ color: #58585A !important;
+ }  #rs-header.header-transparent .menu-area .navbar ul li a, 
+ #rs-header.header-transparent .menu-cart-area i, 
+ #rs-header.header-style5 .sticky_search i::before,
+ #rs-header.header-style1.header-style3 .sticky_search i:before, 
+ #rs-header.header-transparent .menu-responsive .sidebarmenu-search .sticky_search,
+ #rs-header.header-transparent .menu-responsive .sidebarmenu-search .sticky_search .fa,
+ #rs-header.header-transparent .menu-area.dark .navbar ul > li > a,
+ #rs-header.header-transparent .menu-area .navbar ul li:hover > a{
+ color:#FFFFFF 
+ } 
+ .header-style5 .nav-link-container .nav-menu-link span{
+ background:#FFFFFF 
+ } 
+ #rs-header.header-style5 .header-inner .menu-area .navbar ul > li > a,
+ #rs-header.header-style-4 .category-menu .menu li::after,
+ .header-style1.header-style3 .menu-area .navbar ul li a,
+ #rs-header.header-style5 .menu-cart-area > a,
+ .user-icons a,
+ .header-style1.header-style3 .menu-cart-area i,
+ #rs-header.header-style5 .menu-responsive .sidebarmenu-search .sticky_search,
+ #rs-header.header-style5 .menu-cart-area i{
+ color:#FFFFFF 
+ }  #rs-header.header-style3 .menu-cart-area > a,
+ .user-icons a,
+ #rs-header.header-style5 .menu-cart-area > a{
+ border-color:#FFFFFF 
+ } 
+ #rs-header.header-style5 .menu-cart-area > a:hover,
+ .user-icons a:hover{
+ border-color:#75AE1D 
+ }  #rs-header.header-style5 .header-inner .menu-area .navbar ul li:hover > a, 
+ #rs-header.header-style1.header-style3 .sticky_search:hover i:before,
+ .header-style1.header-style3 .menu-cart-area i:hover,
+ .user-icons a:hover,
+ #rs-header.header-style5 .sticky_search:hover i:before,
+ #rs-header.header-style5 .menu-cart-area > a:hover,
+ #rs-header.header-style5 .menu-cart-area > a:hover i:before,
+ #rs-header.header-style5 .menu-cart-area i:hover, 
+ .header-style1.header-style3 .menu-area .navbar ul li:hover a{
+ color:#75AE1D 
+ }  .header-style1.header-style3 .nav-link-container .nav-menu-link:hover span, 
+ .header-style5 .nav-link-container .nav-menu-link:hover span,
+ .single-header.header-style1.header-style3 .menu-area .navbar ul > li.menu-item-has-children.hover-minimize:hover > a::after,
+ #rs-header.header-style5 .header-inner .menu-area .navbar ul > li.menu-item-has-children.hover-minimize:hover > a:after{
+ background:#75AE1D !important; 
+ }  #rs-header.header-style5 .header-inner .menu-area .navbar ul > li.menu-item-has-children.hover-minimize > a:after{
+ background:#75AE1D !important; 
+ }  .rs-footer .widget.widget_nav_menu ul li a::before, 
+ .rs-footer .widget.widget_pages ul li a::before,
+ .rs-footer .widget.widget_nav_menu ul li a::before, 
+ .rs-footer .widget.widget_recent_comments ul li::before, 
+ .rs-footer .widget.widget_pages ul li a::before, 
+ .rs-footer .footer-top h3.footer-title::after,
+ .rs-footer .widget.widget_archive ul li a::before, 
+ .rs-footer .widget.widget_categories ul li a::before,
+ .rs-footer .widget.widget_archive ul li a::before, 
+ .rs-footer .widget.widget_categories ul li a::before{
+ background:#75AE1D; 
+ } 
+ .rs-footer .fa-ul li i::before{
+ color:#75AE1D; 
+ }  #rs-header.header-style5 .menu-area .navbar ul > li.current-menu-ancestor > a, 
+ #rs-header.header-style5 .header-inner .menu-area .navbar ul > li.current-menu-ancestor > a,
+ #rs-header.header-style5 .header-inner.menu-sticky.sticky .menu-area .navbar ul > li.current-menu-ancestor > a{
+ color:#75AE1D !important; 
+ } 
+ .header-style-4 .menu-cart-area span.icon-num,
+ .header-style1.header-style3 .nav-link-container .nav-menu-link span, 
+ .header-style5 .menu-cart-area span.icon-num
+ {
+ background: #FFFFFF;
+ } 
+ #rs-header.header-style5 .header-inner .menu-area, 
+ #rs-header.header-style-3.header-style-2 .sticky-wrapper .header-inner .box-layout{
+ background:#FFFFFF 
+ }  #rs-header.header-transparent .menu-area.dark ul.offcanvas-icon .nav-link-container .nav-menu-link span{
+ background:#FFFFFF 
+ }  .nav-link-container .nav-menu-link span,
+ #rs-header.header-style-4 .nav-link-container .nav-menu-link span{
+ background:#FFFFFF 
+ }  .menu-ofcn.off-open,
+ .menu-wrap-off{
+ background:#FFFFFF 
+ }  .menu-ofcn.off-open,
+ .sidenav .fa-ul li a{
+ color:#333333 
+ }  .menu-ofcn.off-open,
+ .sidenav .widget .widget-title{
+ color:#171F32 
+ }  .sidenav .widget-title:before{
+ background:#171F32 
+ } 
+ .sidenav .fa-ul li a, .sidenav ul.footer_social li a i{
+ color:#333333 
+ } 
+ .sidenav .fa-ul li a:hover, .sidenav ul.footer_social li a:hover i{
+ color:#75AE1D 
+ }  #rs-header.header-transparent .menu-area .navbar ul > li > a:hover,
+ #rs-header.header-transparent .menu-area .navbar ul li:hover > a,
+ #rs-header.header-transparent .menu-area.dark .navbar ul > li:hover > a{
+ color:#75AE1D 
+ }  .menu-area .navbar ul li .sub-menu li a,
+ #rs-header .menu-area .navbar ul li.mega ul li a,
+ #rs-header.header-transparent .menu-area .navbar ul li .sub-menu li.current-menu-ancestor > a,
+ #rs-header.header-transparent .menu-area .navbar ul li.current-menu-ancestor li a{
+ color:#FFFFFF !important;
+ } 
+ .menu-area .navbar ul li ul.sub-menu li.current_page_item > a,
+ .menu-area .navbar ul li .sub-menu li a:hover,
+ #rs-header .menu-area .navbar ul li.mega ul > li > a:hover,
+ .menu-area .navbar ul li ul.sub-menu li:hover > a,
+ #rs-header.header-style5 .header-inner .menu-area .navbar ul li .sub-menu > li:hover > a,
+ #rs-header.header-transparent .menu-area .navbar ul li .sub-menu li:hover > a,
+ #rs-header .menu-area .navbar ul li.mega ul li a:hover,
+ #rs-header .menu-area .navbar ul li.mega ul > li.current-menu-item > a,
+ .menu-sticky.sticky .menu-area .navbar ul li ul li a:hover,
+ #rs-header.header-transparent .menu-area .navbar ul li .sub-menu li.current-menu-ancestor > a, #rs-header.header-transparent .menu-area .navbar ul li .sub-menu li.current_page_item > a,
+ #rs-header.header-transparent .menu-area .navbar ul li.current-menu-ancestor li a:hover{
+ color:#CCCCCC !important;
+ }  .menu-area .navbar ul li .sub-menu{
+ background:#2C1764;
+ }  #rs-header .toolbar-area .toolbar-contact ul li,
+ #rs-header .toolbar-area a,
+ #rs-header .toolbar-area .toolbar-contact ul li i:before{
+ font-size:14px;
+ } 
+ .menu-area .navbar ul > li > a,
+ #rs-header .menu-area .navbar ul > li.mega > ul > li > a{
+ text-transform:uppercase;
+ }  .footer-bottom .copyright p{
+ color:#58585a;
+ }  .rs-footer, .rs-footer h3, .rs-footer a, 
+ .rs-footer .fa-ul li a, 
+ .rs-footer .widget.widget_nav_menu ul li a{
+ font-size:15px;
+ } 
+ .rs-footer h3, .rs-footer .footer-top h3.footer-title{
+ font-size:20px;
+ } 
+ .rs-footer a{
+ font-size:15px;
+ }  .rs-footer, .rs-footer .footer-top h3.footer-title, 
+ .rs-footer a, .rs-footer .fa-ul li a,
+ .rs-footer .widget.widget_nav_menu ul li a, 
+ .rs-footer .widget.widget_recent_comments ul li, 
+ .rs-footer .widget.widget_pages ul li a, 
+ .rs-footer .widget.widget_recent_comments ul li a,
+ .rs-footer .widget.widget_archive ul li a, 
+ .rs-footer .widget.widget_categories ul li a,
+ .rs-footer .widget.widget_nav_menu ul li a,
+ .rs-footer .footer-top input[type="email"]::placeholder
+ {
+ color:#58585A;
+ } 
+ .rs-footer .footer-top h3.footer-title
+ {
+ color:#58585A;
+ } 
+ .rs-footer a:hover, 
+ .rs-footer .widget.widget_nav_menu ul li a:hover,
+ .rs-footer .fa-ul li a:hover,
+ .rs-footer .widget.widget_recent_comments ul li a:hover,
+ .rs-footer .widget.widget_pages ul li a:hover, 
+ .rs-footer .widget.widget_recent_comments ul li:hover, 
+ .rs-footer .widget.widget_archive ul li a:hover, 
+ .rs-footer .widget.widget_categories ul li a:hover,
+ .rs-footer .widget a:hover{
+ color:#75AE1D;
+ } 
+ ul.footer_social > li > a{
+ color:#58585A !important;
+ } 
+ ul.footer_social > li > a:hover{
+ color:#75AE1D !important;
+ } 
+ .mc4wp-form-fields .newsletter-form button
+ {
+ background:#609916		} 
+ .mc4wp-form-fields .newsletter-form button:hover{
+ background:#609916!important;
+ } 
+ .mc4wp-form-fields .newsletter-form button{
+ background:#609916;
+ } 
+ .footer-bottom .copyright_border{
+ border-color:#58585a 
+ } 
+ .rs-footer .recent-post-widget .show-featured .post-desc i, 
+ .rs-heading .title-inner .sub-text,
+ .rs-services-default .services-wrap .services-item .services-icon i, 
+ .rs-blog .blog-item .blog-slidermeta span.category a:hover,
+ .btm-cate li a:hover, 
+ .ps-navigation ul a:hover span, 
+ .rs-portfolio-style5 .portfolio-item .portfolio-content a,
+ .rs-services1.services-left.border_style .services-wrap .services-item .services-icon i:hover,
+ .rs-services1.services-right .services-wrap .services-item .services-icon i:hover,
+ .rs-galleys .galley-img .zoom-icon:hover,
+ #about-history-tabs ul.tabs-list_content li:before,
+ #rs-header.header-style-3 .header-inner .logo-section .toolbar-contact-style4 ul li i,
+ #sidebar-services .widget.widget_nav_menu ul li.current-menu-item a,
+ #sidebar-services .widget.widget_nav_menu ul li a:hover,
+ .single-teams .team-inner ul li i,
+ #rs-header.header-transparent .menu-area .navbar ul li .sub-menu li.current-menu-ancestor > a, 
+ #rs-header.header-transparent .menu-area .navbar ul li .sub-menu li.current_page_item > a,
+ rs-heading .title-inner .title,
+ .team-grid-style1 .team-item .team-content1 h3.team-name a, 
+ .rs-team-grid.team-style5 .team-item .normal-text .person-name a,
+ .rs-team-grid.team-style4 .team-wrapper .team_desc .name a,
+ .rs-team-grid.team-style4 .team-wrapper .team_desc .name .designation, 
+ .contact-page1 .form-button .submit-btn i:before, 
+ .woocommerce nav.woocommerce-pagination ul li span.current, 
+ .woocommerce nav.woocommerce-pagination ul li a:hover,
+ .single-teams .ps-informations h2.single-title,
+ .single-teams .ps-informations ul li.phone a:hover, .single-teams .ps-informations ul li.email a:hover,
+ .single-teams .siderbar-title,
+ .single-teams .team-detail-wrap-btm.team-inner .appointment-btn a,
+ ul.check-icon li:before,
+ .rs-project-section .project-item .project-content .title a:hover,
+ .subscribe-text i, .subscribe-text .title, .subscribe-text span a:hover,
+ .timeline-icon,
+ blockquote::before,
+ .rs-edash-details .learndash-wrapper .ld-status-icon .ld-icon:before,
+ .service-carousels .services-sliders3 span.num,
+ .service-readons:before,
+ .learndash-wrapper .ld-status-icon .ld-icon::before,
+ .rs-edash-details .learndash-wrapper .ld-course-status.ld-course-status-not-enrolled .ld-course-status-price,
+ .rs-blog-details .bs-meta li i,
+ .services-sliders4:hover .services-desc h4.services-title a, 
+ .rs-footer.footerlight .footer_social li a .fa,
+ .single-teams .ps-informations h4.single-title{
+ color:#58585A;
+ }  .portfolio-slider-data .slick-next, 
+ .portfolio-slider-data .slick-prev,
+ .ps-navigation ul a:hover span,
+ ul.chevron-right-icon li:before,
+ .sidenav .fa-ul li i,
+ body.profile #learn-press-user-profile .profile-tabs #profile-content-courses .learn-press-subtab-content ul.lp-sub-menu li a:hover,
+ .woocommerce div.product p.price, .woocommerce div.product span.price, .woocommerce ul.products li.product .price,
+ .single-lp_course .author-info h4 a:hover,
+ .single-lp_course .author-info ul li a:hover,
+ .single-lp_course .review-list li::before, .single-lp_course .requirement-list li::before,
+ .single-lp_course .course-features-info ul li i,
+ .single-lp_course .inner-column.sticky-top .intro-video a,
+ .single-lp_course .course-item-nav a:hover,
+ .learn-press-pagination ul.page-numbers li span.current, 
+ .learn-press-pagination ul.page-numbers li a.current,
+ .rs_course_style1 .courses-item .content-part .title a:hover, 
+ .single-lp_course ul.curriculum-sections .section-content .course-item .section-item-link::before,
+ body.profile #learn-press-user-profile .profile-tabs #learn-press-profile-content .emails a:hover,
+ body.profile #learn-press-user-profile .profile-tabs #learn-press-profile-content .phones a:hover,
+ body.profile #learn-press-user-profile .profile-tabs #learn-press-profile-content .emails i::before,
+ body.profile #learn-press-user-profile .profile-tabs #learn-press-profile-content .phones i::before,
+ body.profile #learn-press-user-profile .user-tab .user-information .insturctor-author-social li a:hover,
+ .rs-portfolio.style2 .portfolio-slider .portfolio-item .portfolio-content h3.p-title a:hover,
+ #rs-header.header-style5 .stuck.sticky .menu-area .navbar ul > li.active a,
+ #rs-header .menu-area .navbar ul > li.active a,
+ .woocommerce-message::before, .woocommerce-info::before,
+ .pagination-area .nav-links span.current,
+ body.single-sfwd-topic .learndash-wrapper .ld-breadcrumbs .ld-breadcrumbs-segments span a,
+ body.single-sfwd-lessons .learndash-wrapper .ld-breadcrumbs .ld-breadcrumbs-segments span a,
+ body.single-sfwd-lessons .learndash-wrapper .ld-breadcrumbs .ld-breadcrumbs-segments span + span a:hover,
+ .rs-sl-social-icons a:hover,
+ body.single-sfwd-topic .learndash-wrapper .ld-breadcrumbs .ld-breadcrumbs-segments span + span a:hover,
+ .rs-portfolio.vertical-slider.style4 .portfolio-slider .portfolio-item:hover .p-title a{
+ color:#58585A !important;
+ } 
+ .transparent-btn:hover,
+ .testimonial-light #cl-testimonial .testimonial-slide7 .single-testimonial:after,
+ .rs-portfolio-style2 .portfolio-item .portfolio-img .read_more:hover,
+ .service-carousel .owl-dots .owl-dot.active,
+ .service-carousel .owl-dots .owl-dot,
+ .bs-sidebar.dynamic-sidebar .service-singles .menu li a:hover,
+ .bs-sidebar.dynamic-sidebar .service-singles .menu li.current-menu-item a,
+ .rs-footer.footerlight .footer-top .mc4wp-form-fields input[type="email"],
+ .bs-sidebar .tagcloud a:hover,
+ .rs_course_style3 .courses-item .content-part .bottom-part .btn-part a:hover, 
+ .rs_course_style5 .courses-item .content-part .bottom-part .btn-part a:hover, 
+ .rs_course_style1 .courses-item .content-part .bottom-part .btn-part a:hover, 
+ .rs_course_style4 .courses-item .content-part .bottom-part .btn-part a:hover,
+ .lp-tab-sections .section-tab.active span,
+ .rs-blog-details .bs-info.tags a:hover,
+ .single-teams .team-skill .rs-progress{
+ border-color:#58585A !important;
+ } 
+ .single-lp_course ul.curriculum-sections .section-content .course-item .course-item-meta .count-questions,
+ .learndash-wrapper .ld-focus .ld-focus-header .ld-brand-logo{
+ background:#171F32 !important;
+ } 
+ .owl-carousel .owl-nav [class*="owl-"],
+ html input[type="button"]:hover, input[type="reset"]:hover,
+ .rs-video-2 .popup-videos:before,
+ .sidenav .widget-title:before,
+ .rs-team-grid.team-style5 .team-item .team-content,
+ .rs-team-grid.team-style4 .team-wrapper .team_desc::before,
+ .rs-services-style4:hover .services-icon i,
+ .team-grid-style1 .team-item .social-icons1 a:hover i,
+ .loader__bar,
+ .rs-blog-grid .blog-img a.float-cat,
+ #sidebar-services .download-btn ul li,
+ .transparent-btn:hover,
+ .rs-portfolio-style2 .portfolio-item .portfolio-img .read_more:hover,
+ .rs-video-2 .popup-videos,
+ .rs-blog-details .blog-item.style2 .category a, .rs-blog .blog-item.style2 .category a, .blog .blog-item.style2 .category a,
+ .rs-blog-details .blog-item.style1 .category a, .rs-blog .blog-item.style1 .category a, .blog .blog-item.style1 .category a, 
+ .icon-button a,
+ .team-grid-style1 .team-item .image-wrap .social-icons1, .team-slider-style1 .team-item .image-wrap .social-icons1,
+ .rs-heading.style8 .title-inner:after,
+ .rs-heading.style8 .description:after,
+ #slider-form-area .form-area input[type="submit"],
+ .services-style-5 .services-item:hover .services-title,
+ #sidebar-services .rs-heading .title-inner h3:before, 
+ #rs-contact .contact-address .address-item .address-icon::before,
+ .team-slider-style4 .team-carousel .team-item:hover,
+ #rs-header.header-transparent .btn_quote a:hover,
+ .bs-sidebar .tagcloud a:hover,
+ .rs-heading.style2:after,
+ .rs-blog-details .bs-info.tags a:hover,
+ .mfp-close-btn-in .mfp-close,
+ .top-services-dark .rs-services .services-style-7.services-left .services-wrap .services-item,
+ .single-teams .team-inner h3:before,
+ .single-teams .team-detail-wrap-btm.team-inner,
+ ::selection,
+ .rs-heading.style2 .title:after,
+ .readon:hover,
+ .rs-blog-details #reply-title:before,
+ .rs-cta .style2 .title-wrap .exp-title:after,
+ .rs-project-section .project-item .project-content .p-icon,
+ .proces-item.active:after, .proces-item:hover:after,
+ .subscribe-text .mc4wp-form input[type="submit"],
+ .rs-footer #wp-calendar th,
+ .service-carousel.services-dark .services-sliders2 .services-desc:before, 
+ .service-carousels.services-dark .services-sliders2 .services-desc:before,
+ .rs-services .services-style-9 .services-wrap:after,
+ .close-search,
+ blockquote cite::before, 
+ blockquote::after,
+ .single-lp_course .course-rate .review-bar .rating,
+ .course-summary .course-tabs .learn-press-nav-tabs .course-nav.active,
+ .course-summary .course-tabs .learn-press-nav-tabs .course-nav.active::before,
+ .bs-sidebar .widget-title::after,
+ .portfolio-slider-data .slick-dots li.slick-active, 
+ .portfolio-slider-data .slick-dots li:hover,
+ .rs-portfolio.vertical-slider.style4 .portfolio-slider .portfolio-item .p-title a:before,
+ .rs-team-grid.team-style4 .team-wrapper:hover .team_desc,
+ .single-portfolios .ps-informations h3,
+ .woocommerce a.remove:hover,
+ .submit-btn .wpcf7-submit,
+ .rs_course_style3 .courses-item .content-part .bottom-part .btn-part a:hover, 
+ .rs_course_style5 .courses-item .content-part .bottom-part .btn-part a:hover, 
+ .rs_course_style1 .courses-item .content-part .bottom-part .btn-part a:hover, 
+ .rs_course_style4 .courses-item .content-part .bottom-part .btn-part a:hover,
+ .rs_course_style3 .courses-item .content-part .meta-part li span.price, 
+ .rs_course_style5 .courses-item .content-part .meta-part li span.price, 
+ .rs_course_style1 .courses-item .content-part .meta-part li span.price, 
+ .rs_course_style4 .courses-item .content-part .meta-part li span.price,
+ .lp-archive-courses .rs-search button,
+ .learn-press-pagination ul.page-numbers li::before,
+ .lp-archive-courses .course-left .course-icons a.active-grid,
+ .rs-heading.style6 .title-inner .sub-text:after,
+ .bs-sidebar.dynamic-sidebar .service-singles .menu li.current-menu-item a,
+ .bs-sidebar.dynamic-sidebar .service-singles .menu li a:hover,
+ .single-teams .team-skill .rs-progress .progress-bar,
+ .woocommerce div.product .woocommerce-tabs ul.tabs li:hover,
+ .woocommerce span.onsale,
+ .woocommerce div.product .woocommerce-tabs ul.tabs li.active
+ {
+ background:#58585A;
+ }
+ .woocommerce span.onsale,
+ .team-grid-style1 .team-item:after, 
+ .team-slider-style1 .team-item:after,
+ .single-lp_course ul.curriculum-sections .section-content .course-item::before, 
+ .single-lp_course .learn-press-message::before,
+ .faq-simple .elementor-accordion-item .elementor-tab-title.elementor-active,
+ .single-lp_course ul.curriculum-sections .section-content .course-item .course-item-meta .duration,
+ .bs-sidebar .bs-search button{
+ background:#58585A !important;
+ } 
+ .portfolio-slider-data .slick-dots li,
+ .lp-list-table thead tr th{
+ background:#171F32;
+ }  .review-stars-rated .review-stars.empty, 
+ .review-stars-rated .review-stars.filled{
+ color:#58585A;
+ }
+ .sidenav .widget_nav_menu ul > li.current-menu-item > a,
+ .sidenav .widget_nav_menu ul > li > a:hover{
+ color:#58585A !important;
+ }
+ #cl-testimonial .testimonial-slide7 .single-testimonial:after, #cl-testimonial .testimonial-slide7 .single-testimonial:before{
+ border-right-color: #58585A;
+ border-right: 30px solid #58585A;
+ }
+ #cl-testimonial .testimonial-slide7 .single-testimonial{
+ border-left-color: #58585A;
+ }
+ .team-slider-style1 .team-item .team-content1 h3.team-name a:hover,
+ .rs-service-grid .service-item .service-content .service-button .readon.rs_button:hover:before,
+ .rs-heading.style6 .title-inner .sub-text, 
+ .rs-heading.style7 .title-inner .sub-text,
+ .rs-portfolio-style1 .portfolio-item .portfolio-content .pt-icon-plus:before,
+ .team-grid-style1 .team-item .team-content1 h3.team-name a, 
+ .service-readons:hover,
+ .service-readons:before:hover{
+ color:#58585A !important;
+ }  .rs-services-style3 .bg-img a,
+ .rs-services-style3 .bg-img a:hover{
+ background:#58585A;
+ border-color: #58585A;
+ }
+ .rs-service-grid .service-item .service-content .service-button .readon.rs_button:hover{
+ border-color: #58585A;;
+ color: #58585A;
+ }  .woocommerce div.product p.price ins, .woocommerce div.product span.price ins,
+ .woocommerce div.product p.price, .woocommerce div.product span.price, 
+ .cd-timeline__content .short-info h2, .cd-timeline__content .short-info h3{
+ color: #58585A!important;
+ }  .team-grid-style3 .team-img .team-img-sec:before,
+ #loading, 
+ #sidebar-services .bs-search button:hover, 
+ .team-slider-style3 .team-img .team-img-sec:before,
+ .rs-blog-details .blog-item.style2 .category a:hover, 
+ .rs-blog .blog-item.style2 .category a:hover, 
+ .blog .blog-item.style2 .category a:hover,
+ .icon-button a:hover,
+ .rs-blog-details .blog-item.style1 .category a:hover, 
+ .rs-blog .blog-item.style1 .category a:hover, 
+ .blog .blog-item.style1 .category a:hover,
+ .skew-style-slider .revslider-initialised::before,
+ .top-services-dark .rs-services .services-style-7.services-left .services-wrap .services-item:hover,
+ .icon-button a:hover,
+ .fullwidth-services-box .services-style-2:hover,
+ #rs-header.header-style-4 .logo-section:before,
+ .post-meta-dates,
+ .woocommerce ul.products li.product .price ins,
+ #scrollUp i,
+ .cd-timeline__img.cd-timeline__img--picture,
+ .rs-portfolio-style4 .portfolio-item .portfolio-img:before,
+ .rs-portfolio-style3 .portfolio-item .portfolio-img:before
+ {
+ background: #58585A;
+ }  html input[type="button"], input[type="reset"], input[type="submit"]{
+ background: #58585A;
+ }  .round-shape:before{
+ border-top-color: #171F32;
+ border-left-color: #171F32;
+ }
+ .round-shape:after{
+ border-bottom-color: #171F32;
+ border-right-color: #171F32;
+ } 
+ #sidebar-services .wpb_widgetised_column{
+ border-color:#58585A;
+ }
+ #sidebar-services .download-btn,
+ .rs-video-2 .overly-border,
+ .single-teams .ps-informations ul li.social-icon i,
+ .woocommerce-error, .woocommerce-info, .woocommerce-message{
+ border-color:#58585A !important;
+ }  .testimonial-light #cl-testimonial .testimonial-slide7 .single-testimonial:before, 
+ .testimonial-light #cl-testimonial .testimonial-slide7 .single-testimonial:after{
+ border-right-color: #171F32 !important;
+ border-top-color: transparent !important;
+ }  .testimonial-light #cl-testimonial .testimonial-slide7 .single-testimonial{
+ border-left-color:#171F32 !important;
+ }
+ .portfolio-filter button:hover, 
+ .portfolio-filter button.active,
+ .team-grid-style1 .team-item .team-content1 h3.team-name a:hover,
+ #cl-testimonial .testimonial-slide7 .right-content i,
+ .testimonial-light #cl-testimonial .testimonial-slide7 .single-testimonial .cl-author-info li:first-child,
+ .rs-blog-details .bs-img .blog-date span.date, 
+ .rs-blog .bs-img .blog-date span.date, 
+ .blog .bs-img .blog-date span.date, 
+ .rs-blog-details .blog-img .blog-date span.date, 
+ .rs-blog .blog-img .blog-date span.date, 
+ .blog .blog-img .blog-date span.date, 
+ .rs-portfolio-style5 .portfolio-item .portfolio-content a:hover,
+ #cl-testimonial.cl-testimonial9 .single-testimonial .cl-author-info li,
+ #cl-testimonial.cl-testimonial9 .single-testimonial .image-testimonial p i,
+ .rs-services1.services-left.border_style .services-wrap .services-item .services-icon i,
+ .rs-services1.services-right .services-wrap .services-item .services-icon i,
+ body.profile #learn-press-user-profile .profile-tabs #profile-content-quizzes .learn-press-subtab-content ul.lp-sub-menu li a:hover,
+ body.profile #learn-press-user-profile .profile-tabs .nav.nav-tabs li a:hover,
+ body.profile #learn-press-user-profile .profile-tabs #profile-content-courses .lp-tab-sections li a:hover,
+ body.profile #learn-press-user-profile .profile-tabs #profile-content-courses .learn-press-subtab-content .profile-courses-list li h3:hover,
+ .rs-portfolio.style2 .portfolio-slider .portfolio-item .portfolio-img .portfolio-content .categories a:hover,
+ .woocommerce ul.products li.product .price,
+ .course-features-info h3.title,
+ .course-features-info ul li i,
+ .full-blog-content .btm-cate .tag-line i,
+ .rs-blog .blog-item .blog-meta .blog-date i,
+ .full-blog-content .author i,
+ .full-blog-content .blog-title a:hover,
+ body.profile #learn-press-user-profile .profile-tabs .nav.nav-tabs li.active a,
+ body.profile #learn-press-user-profile .profile-tabs #profile-content-courses .lp-tab-sections li.active span,
+ #rs-services-slider .menu-carousel .heading-block h4 a:hover,
+ .rs-team-grid.team-style5 .team-item .normal-text .person-name a:hover,
+ .service-readons:hover, .service-readons:hover:before,
+ .single-teams .designation-info{
+ color: #58585A;
+ }  .rs-team-grid.team-style4 .team-wrapper .team_desc:before,
+ .rs-team-grid.team-style5 .team-item .normal-text .team-text:before,
+ .rs-services3 .slick-arrow,
+ .single-teams .ps-image .ps-informations,
+ .slidervideo .slider-videos,
+ .slidervideo .slider-videos:before,
+ body.profile .lp-label.label-completed, body.profile .lp-label.label-finished,
+ .service-readon,
+ body.profile #learn-press-user-profile .profile-tabs #profile-content-quizzes .learn-press-subtab-content .learn-press-message::before,
+ .service-carousel .owl-dots .owl-dot.active, 
+ .rs-blog-details .bs-img .categories .category-name a, 
+ .rs-blog .bs-img .categories .category-name a, 
+ .blog .bs-img .categories .category-name a, 
+ .rs-blog-details .blog-img .categories .category-name a, 
+ .rs-blog .blog-img .categories .category-name a, 
+ .blog .blog-img .categories .category-name a{
+ background: #58585A;
+ }  .rs-blog-details .bs-img .blog-date:before, 
+ .rs-blog .bs-img .blog-date:before, 
+ .blog .bs-img .blog-date:before, 
+ .rs-blog-details .blog-img .blog-date:before, 
+ .rs-blog .blog-img .blog-date:before, 
+ .blog .blog-img .blog-date:before{ 
+ border-bottom: 0 solid;
+ border-bottom-color: #58585A;
+ border-top: 80px solid transparent;
+ border-right-color: #58585A;
+ }  body.profile #learn-press-user-profile .profile-tabs #profile-content-courses .lp-tab-sections .section-tab.active span,
+ .team-grid-style3 .team-img:before, .team-slider-style3 .team-img:before{
+ border-bottom-color: #58585A; 
+ }  .team-grid-style3 .team-img:after, .team-slider-style3 .team-img:after{
+ border-top-color: #58585A; 
+ }  .woocommerce-info,
+ .timeline-alter .divider:after,
+ body.single-services blockquote, 
+ .rs-porfolio-details.project-gallery .file-list-image .p-zoom:hover
+ {
+ border-color: #58585A; 
+ } 
+ .slidervideo .slider-videos i,
+ .list-style li::before,
+ .slidervideo .slider-videos i:before,
+ #team-list-style .team-name a,
+ .rs-blog .blog-item .blog-button a:hover{
+ color: #609916;
+ }  .rs-blog .blog-meta .blog-title a:hover
+ .about-award a:hover,
+ #team-list-style .team-name a:hover,
+ #team-list-style .team-social i:hover,
+ #team-list-style .social-info .phone a:hover,
+ .woocommerce ul.products li .woocommerce-loop-product__title a:hover,
+ #rs-contact .contact-address .address-item .address-text a:hover,
+ a,.bs-sidebar .recent-post-widget .post-desc a:hover,
+ .bs-sidebar .widget_categories ul li a:hover,
+ a:hover, a:focus, a:active,
+ .rs-blog .blog-meta .blog-title a:hover,
+ .rs-blog .blog-item .blog-meta .categories a:hover,
+ .bs-sidebar ul a:hover{
+ color: #70C619;
+ }  .about-award a:hover{
+ border-color: #70C619;
+ } 
+ .rs-blog-details .bs-img .categories .category-name a:hover, 
+ .rs-blog .bs-img .categories .category-name a:hover, 
+ .blog .bs-img .categories .category-name a:hover, 
+ .rs-blog-details .blog-img .categories .category-name a:hover, 
+ .rs-blog .blog-img .categories .category-name a:hover, 
+ .blog .blog-img .categories .category-name a:hover,
+ #rs-header.header-style-4 .logo-section .times-sec{
+ background: #58585A;
+ }  .readon,
+ .rs-heading.style3 .description:after,
+ .team-grid-style1 .team-item .social-icons1 a i, .team-slider-style1 .team-item .social-icons1 a i,
+ .owl-carousel .owl-nav [class*="owl-"]:hover,
+ button, html input[type="button"], input[type="reset"],
+ .rs-service-grid .service-item .service-img:before,
+ .rs-service-grid .service-item .service-img:after,
+ #rs-contact .contact-address .address-item .address-icon::after,
+ .rs-services1.services-left.border_style .services-wrap .services-item .services-icon i:hover,
+ .rs-services1.services-right .services-wrap .services-item .services-icon i:hover,
+ .rs-service-grid .service-item .service-content::before,
+ .rs-services-style4 .services-item .services-icon i,
+ #rs-services-slider .img_wrap:before,
+ #rs-services-slider .img_wrap:after,
+ .rs-galleys .galley-img:before,
+ .woocommerce-MyAccount-navigation ul li:hover,
+ .woocommerce-MyAccount-navigation ul li.is-active,
+ .rs-galleys .galley-img .zoom-icon,
+ .team-grid-style2 .team-item-wrap .team-img .team-img-sec::before,
+ .services-style-5 .services-item .icon_bg,
+ #cl-testimonial.cl-testimonial10 .slick-arrow,
+ .contact-sec .contact:before, .contact-sec .contact:after,
+ .contact-sec .contact2:before,
+ .team-grid-style2 .team-item-wrap .team-img .team-img-sec:before,
+ .rs-porfolio-details.project-gallery .file-list-image:hover .p-zoom:hover, 
+ .team-slider-style2 .team-item-wrap .team-img .team-img-sec:before,
+ .rs-team-grid.team-style5 .team-item .normal-text .social-icons a i:hover
+ {
+ background: #58585A;
+ }  #rs-header.header-style-4 .logo-section .times-sec:after{
+ border-bottom-color: #58585A;
+ }  .full-video .rs-services1.services-left .services-wrap .services-item .services-icon i,
+ #cl-testimonial.cl-testimonial9 .single-testimonial .testimonial-image img,
+ .rs-services1.services-left.border_style .services-wrap .services-item .services-icon i,
+ .rs-services1.services-right .services-wrap .services-item .services-icon i,
+ #cl-testimonial.cl-testimonial10 .slick-arrow,
+ .team-grid-style2 .team-item-wrap .team-img img, .team-slider-style2 .team-item-wrap .team-img img,
+ .contact-sec .wpcf7-form .wpcf7-text, .contact-sec .wpcf7-form .wpcf7-textarea{
+ border-color: #58585A !important;
+ }  #rs-services-slider .item-thumb .owl-dot.service_icon_style.active .tile-content a, 
+ #rs-services-slider .item-thumb .owl-dot.service_icon_style:hover .tile-content a,
+ .team-grid-style2 .appointment-bottom-area .app_details:hover a, 
+ .team-slider-style2 .appointment-bottom-area .app_details:hover a{
+ color: #70C619 !important; 
+ } 
+ #rs-header .menu-sticky.sticky .menu-area,
+ #rs-header.header-style-3.header-style-2 .sticky-wrapper .header-inner.sticky .box-layout{
+ background: #FFFFFF !important; 
+ } 
+ #rs-header .menu-sticky.sticky .menu-area .navbar ul li a,
+ #rs-header.header-style1 .header-inner.sticky .category-menu .menu li:after,
+ #rs-header.header-style-4 .header-inner.sticky .menu-cart-area i,
+ #rs-header.header-style-4 .header-inner.sticky .sidebarmenu-search i,
+ #rs-header.header-style-4 .header-inner.sticky .btn_quote .toolbar-sl-share ul li a{
+ color: #58585A;
+ } 
+ #rs-header .menu-sticky.sticky .nav-link-container .nav-menu-link span{
+ background: #58585A;
+ } 
+ #rs-header .menu-sticky.sticky .nav-link-container .nav-menu-link:hover span{
+ background: #75AE1D;
+ }  #rs-header.header-transparent .menu-sticky.sticky .menu-area .navbar ul > li.current-menu-ancestor > a,
+ #rs-header .menu-sticky.sticky .menu-area .navbar ul > li.current-menu-ancestor > a,
+ #rs-header .menu-sticky.sticky .menu-area .navbar ul > li.current_page_item > a,
+ #rs-header .menu-sticky.sticky .menu-area .navbar ul li .sub-menu li.current-menu-item page_item a,
+ #rs-header.header-style-4 .menu-sticky.sticky .menu-area .navbar ul > li.current_page_item > a,
+ #rs-header.header-style-4 .menu-sticky.sticky .menu-area .menu > li.current-menu-ancestor > a{
+ color: #75AE1D !important; 
+ } 
+ .menu-sticky.sticky .menu-area .navbar ul li .sub-menu{
+ background:#2C1764;
+ }  #rs-header.header-style-4 .header-inner.sticky .nav-link-container .nav-menu-link:hover span,
+ #rs-header.header-style1.header1 .header-inner.sticky .menu-area .navbar ul > li.menu-item-has-children.hover-minimize:hover > a:after{
+ background:#75AE1D !important;
+ } 
+ #rs-header .menu-sticky.sticky .menu-area .navbar ul > li:hover > a,
+ #rs-header.header-style-4 .header-inner.sticky .btn_quote .toolbar-sl-share ul > li a:hover,
+ #rs-header.header-style-4 .header-inner.sticky .menu-cart-area i:hover,
+ #rs-header.header-style1 .header-inner.sticky .category-menu .menu li:hover:after,
+ #rs-header.header-style1 .header-inner.sticky .category-menu .menu li:hover:after,
+ #rs-header.header-style-4 .header-inner.sticky .sidebarmenu-search i:hover, 
+ #rs-header .menu-sticky.sticky .menu-area .navbar ul li ul.submenu > li.current-menu-ancestor > a{
+ color: #75AE1D !important; 
+ } 
+ #rs-header .toolbar-area .toolbar-sl-share ul li a.quote-buttons{
+ color: #FFFFFF		}  #rs-header .menu-sticky.sticky .menu-area .navbar ul li .sub-menu li a{
+ color: #FFFFFF !important; 
+ } 
+ #rs-header .menu-sticky.sticky .menu-area .navbar ul li .sub-menu li a:hover,
+ #rs-header .menu-sticky.sticky .menu-area .navbar ul li .sub-menu li.current-menu-item page_item a,
+ #rs-header .menu-sticky.sticky .menu-area .navbar ul  li .sub-menu li.current_page_item > a
+ {
+ color: #75AE1D !important; 
+ }  .rs-footer{
+ background: #F8F8F8;
+ }  #rs-header .btn_quote a,
+ .comment-respond .form-submit #submit,
+ .woocommerce #respond input#submit, 
+ .woocommerce a.button, 
+ .woocommerce .wc-forward, 
+ .woocommerce button.button, 
+ .woocommerce input.button, 
+ .woocommerce #respond input#submit.alt, 
+ .woocommerce a.button.alt, 
+ .woocommerce button.button.alt, 
+ .woocommerce input.button.alt, 
+ .woocommerce button.button.alt.disabled,
+ .woocommerce ul.products li.product .images-product .overley .winners-details .product-info ul li a,
+ .wp-block-file .wp-block-file__button{
+ border-color:#75AE1D; 
+ } 
+ #rs-header .btn_quote a:hover,
+ .woocommerce #respond input#submit.alt:hover, 
+ .woocommerce #respond input#submit:hover, 
+ .woocommerce .wc-forward:hover, 
+ .woocommerce a.button.alt:hover, 
+ .woocommerce a.button:hover, 
+ .woocommerce button.button.alt:hover, 
+ .woocommerce button.button:hover, 
+ .woocommerce input.button.alt:hover, 
+ .woocommerce input.button:hover,
+ .comment-respond .form-submit #submit:hover{
+ border-color:#171F32; 
+ } 
+ #rs-header .btn_quote a,
+ .submit-btn .wpcf7-submit,
+ body.single-events .course-features-info .book-btn a,
+ .comment-respond .form-submit #submit{
+ color:#FFFFFF; 
+ }  .woocommerce button.button,
+ .woocommerce button.button.alt, 
+ .woocommerce ul.products li a.button,
+ .woocommerce .wc-forward,
+ .woocommerce #respond input#submit, .woocommerce a.button, .woocommerce .wc-forward, .woocommerce button.button, .woocommerce input.button, .woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt,
+ .woocommerce a.button, 
+ .comments-area .comment-list li.comment .reply a,
+ .single-lp_course .inner-column.sticky-top .course-seats.price .course-price,
+ .comment-respond .form-submit #submit,
+ .menu-sticky.sticky .quote-button,
+ #rs-header.header-style-3 .btn_quote .quote-button,
+ .wp-block-file .wp-block-file__button,
+ body.single-events .course-features-info .book-btn a,
+ .wp-block-button__link{
+ background:#75AE1D;
+ }  .readon,
+ .woocommerce button.button,
+ .woocommerce #respond input#submit, .woocommerce a.button, .woocommerce .wc-forward, .woocommerce button.button, .woocommerce input.button, .woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt,
+ .woocommerce a.button,
+ .woocommerce .wc-forward,
+ .comment-respond .form-submit #submit,
+ .comments-area .comment-list li.comment .reply a,
+ .woocommerce button.button.alt, 
+ .woocommerce ul.products li a.button,
+ .menu-sticky.sticky .quote-button:hover,
+ body.single-events .course-features-info .book-btn a,
+ #rs-header.header-style-3 .btn_quote .quote-button{
+ color:#FFFFFF; 
+ } 
+ #rs-header .btn_quote a:hover,
+ .comment-respond .form-submit #submit:hover,
+ .submit-btn .wpcf7-submit:hover, 
+ body.single-events .course-features-info .book-btn a:hover,
+ #rs-header.header-style-3 .btn_quote .quote-button:hover{
+ color:#FFFFFF !important;
+ }  .comments-area .comment-list li.comment .reply a:hover,
+ .woocommerce a.button:hover,
+ .woocommerce #respond input#submit:hover, .woocommerce a.button:hover, 
+ .woocommerce .wc-forward:hover, .woocommerce button.button:hover, 
+ .woocommerce input.button, .woocommerce #respond input#submit.alt:hover, 
+ .woocommerce a.button.alt:hover, .woocommerce button.button.alt:hover, 
+ .woocommerce button.button.alt:hover, 
+ .woocommerce button.button:hover,
+ body.single-events .course-features-info .book-btn a:hover,
+ .woocommerce ul.products li:hover a.button,
+ .menu-sticky.sticky .quote-button:hover,
+ #rs-header.header-transparent .btn_quote a:hover,
+ #rs-header.header-style-3 .btn_quote .quote-button:hover,
+ .readon:before,
+ .submit-btn:before,
+ .comment-respond .form-submit #submit:hover,
+ .woocommerce #respond input#submit:before, .woocommerce a.button:before, 
+ .woocommerce .wc-forward:before, .woocommerce button.button:before, 
+ .woocommerce input.button:before, .woocommerce #respond input#submit.alt:before, 
+ .woocommerce a.button.alt:before, .woocommerce button.button.alt:before, 
+ .woocommerce input.button.alt:before{
+ background:#171F32; 
+ } 
+ @media only screen and (min-width: 1300px) {
+ .container{
+ max-width:1430px;
+ }
+ }  .menu-area .navbar ul li, .menu-area .navbar ul > li a{
+ padding-left:0px;
+ } 
+ .menu-area .navbar ul li, .menu-area .navbar ul > li a{
+ padding-right:16px;
+ } 
+ .menu-area .navbar ul > li,
+ .menu-cart-area,
+ #rs-header .btn_quote,
+ #rs-header .menu-responsive .sidebarmenu-search .sticky_search{
+ padding-top:34px;
+ } 
+ .menu-area .navbar ul > li,
+ .menu-cart-area,
+ #rs-header .btn_quote,
+ #rs-header .menu-responsive .sidebarmenu-search .sticky_search{
+ padding-bottom:34px;
+ }  .menu-area .navbar ul li ul.sub-menu li a{
+ padding-left:40px;
+ padding-right:40px;
+ } 
+ .menu-area .navbar ul li ul.sub-menu{
+ padding-top:21px;
+ padding-bottom:21px;
+ } 
+ .menu-area .navbar ul li ul.sub-menu li a{
+ padding-top:10px;
+ padding-bottom:10px;
+ }  #rs-header .menu-area .navbar ul > li.mega > ul{
+ padding-left:40px;
+ padding-right:40px;
+ } 
+ #rs-header .menu-area .navbar ul > li.mega > ul{
+ padding-top:21px;
+ padding-bottom:21px;
+ } 
+ #rs-header .menu-area .navbar ul li.mega ul.sub-menu li a{
+ padding-top:10px;
+ padding-bottom:10px;
+ }  .rs-breadcrumbs{
+ background:#FFFFFF; 
+ }  .menu-wrap-off .inner-offcan .nav-link-container .close-button span
+ {
+ background:#FFFFFF; 
+ } 
+ .menu-wrap-off .off-nav-layer{
+ background:#FFFFFF; 
+ } 
+ .sidenav .widget_nav_menu ul li a,
+ .sidenav.offcanvas-icon .rs-offcanvas-right a,
+ .sidenav .menu > li.menu-item-has-children:before,
+ .sidenav a{
+ color:#333333; 
+ }  .rs-breadcrumbs .page-title{
+ color:#1E73BE !important; 
+ } 
+ .rs-breadcrumbs ul li *,
+ .rs-breadcrumbs ul li.trail-begin a:before,
+ .rs-breadcrumbs ul li,
+ .rs-breadcrumbs .breadcrumbs-title .current-item,
+ .rs-breadcrumbs .breadcrumbs-title span a span{
+ color:#1E73BE !important; 
+ }
+ .rs-breadcrumbs .breadcrumbs-title span a:after, 
+ .rs-breadcrumbs .breadcrumbs-title span a:before{
+ background-color:#1E73BE !important; 
+ } 
+ .rs-breadcrumbs .breadcrumbs-inner,
+ #rs-header.header-style-3 .rs-breadcrumbs .breadcrumbs-inner{
+ padding-top:20px; 
+ padding-bottom:20px; 
+ } 
+ @media only screen and (max-width: 991px) {
+ .rs-breadcrumbs .breadcrumbs-inner,
+ #rs-header.header-style-3 .rs-breadcrumbs .breadcrumbs-inner{
+ padding-top:10px; 
+ padding-bottom:10px; 
+ }
+ } 
+ body.single-post, body.blog, body.archive, body.single-services, body.single-mp-event{
+ background:#FFFFFF; 
+ } 
+ .loader .loader-container:before{
+ border-color:  !important; 
+ } 
+ .loader .loader-container{
+ border-color: #EBEBEC !important; 
+ } 
+ #educavo-load{
+ background: #FFFFFF !important; 
+ } 
+ body.archive.tax-product_cat{
+ background: #FFFFFF !important; 
+ } 
+ .page-error.coming-soon .countdown-inner .time_circles div,
+ .page-error.coming-soon .content-area h3,
+ .page-error.coming-soon .content-area h3 span,
+ .page-error.coming-soon .follow-us-sbuscribe p,
+ .page-error.coming-soon .countdown-inner .time_circles div h4,
+ .page-error.coming-soon .countdown-inner .time_circles div span{
+ color: #FFFFFF		}
+ .page-error.coming-soon .countdown-inner .time_circles div{
+ border-color: #FFFFFF		} 
+ .page-error.coming-soon .countdown-inner .time_circles div{
+ background:  #75AE1D		} </style> <style> .main-contain #content,
+ body.rs-pages-btm-gap .main-contain #content{
+ padding-top:0px;
+ padding-bottom:0px;
+ } </style> <style> body .rs-newsletter .newsletter-wrap{ 
+ background:#609916 !important;
+ } 
+ body .rs-newsletter .newsletter-wrap .title{ 
+ color:#ffffff !important;
+ }  body .rs-newsletter .mc4wp-form-fields .newsletter-form input{ 
+ background:#ffffff !important;
+ } 
+ body .mc4wp-form-fields .newsletter-form input{ 
+ color:#ffffff !important;
+ } 
+ ::-webkit-input-placeholder {
+ color:#ffffff !important;
+ }
+ :-ms-input-placeholder {
+ color:#ffffff !important;
+ }
+ ::placeholder {
+ color:#ffffff !important;
+ } 
+ body .mc4wp-form-fields .newsletter-form button{ 
+ background:#09bbfe !important;
+ }  body .mc4wp-form-fields .newsletter-form button{ 
+ color:#ffffff !important;
+ } 
+ body .mc4wp-form-fields .newsletter-form button:hover{ 
+ background:#1cc2ff !important;
+ } 
+ body .rs-newsletter .mc4wp-form-fields .newsletter-form button:hover{ 
+ color:#ffffff !important;
+ }  body .rs-footer a, 
+ body .rs-footer .fa-ul li a, 
+ body .rs-footer .widget.widget_nav_menu ul li a{
+ color:#58585a;
+ } 
+ body #rs-header .sticky_search i:before{ 
+ color:#333333 !important;
+ } 
+ body .menu-cart-area i{ 
+ color:#333333 !important;
+ } 
+ body .user-icons a{ 
+ color:#333333 !important;
+ }  body .user-icons a{ 
+ border-color:#333333 !important;
+ } 
+ body .user-icons a:hover{ 
+ color:#75ae1d !important;
+ }  body .user-icons a:hover{ 
+ border-color:#75ae1d !important;
+ } 
+ body #rs-header.header-style5 .menu-cart-area > a{ 
+ border-color:#333333 !important;
+ } 
+ body #rs-header.header-style3 .menu-cart-area > a{ 
+ border-color:#333333 !important;
+ } 
+ body #rs-header .sticky_search:hover i:before{ 
+ color:#75ae1d !important;
+ }  body .menu-cart-area i:hover,
+ #rs-header.header-style5 .menu-cart-area > a:hover i:before,
+ body #rs-header.header-style5 .menu-cart-area > a:hover,
+ body .header-style1.header-style3 .menu-cart-area i:hover{ 
+ color:#75ae1d !important;
+ } 
+ body #rs-header.header-style5 .menu-cart-area > a:hover{ 
+ border-color:#75ae1d !important;
+ }  body .menu-area .navbar ul li ul.sub-menu{ 
+ background:#2c1764 !important;
+ } 
+ .rs-rev-btn2:after, 
+ .rs-rev-btn2:before,
+ .cate-slider-style3 .contents .vies-more a,
+ .rev-btn:hover .rs-rev-btn1:after, 
+ .rev-btn:hover .rs-rev-btn1:before,
+ .rs-footer .footer-top h3.footer-title::after,
+ body #scrollUp i, body .spinner, 
+ .mfp-close-btn-in .mfp-close,
+ body .rs-addon-slider .slick-dots li button 
+ { 
+ background:#75ae1d;
+ } 
+ body .faq-simple .elementor-accordion-item .elementor-tab-title.elementor-active{ 
+ background:#75ae1d !important;
+ } 
+ body .rsaddon-unique-slider .blog-content .blog-footer .blog-meta i,
+ .rs-footer .fa-ul li i,
+ .rev-btn:hover .rs-rev-btn1,
+ .cate-slider-style3 .contents .course-qnty:before,
+ .rs-portfolio-style3 .portfolio-item .portfolio-content h4 a:hover, 
+ .rs-footer .recent-post-widget .show-featured .post-desc i{ 
+ color:#75ae1d !important;
+ }  body .menu-area .navbar ul li ul.sub-menu{ 
+ border-color:#75ae1d !important;
+ } 
+ body .rs-footer .fa-ul li i:before,
+ body .rs-footer .recent-post-widget .show-featured .post-desc i{ 
+ color:#75ae1d !important;
+ } 
+ body .rs-footer .widget.widget_nav_menu ul li a::before, 
+ body .rs-footer .widget.widget_pages ul li a::before, 
+ body .rs-footer .widget.widget_archive ul li a::before, 
+ body .rs-footer .widget.widget_categories ul li a::before{ 
+ background:#75ae1d !important;
+ }  body #rs-header.header-transparent .menu-sticky.sticky .menu-area .navbar ul > li.current-menu-ancestor > a, 
+ body #rs-header .menu-sticky.sticky .menu-area .navbar ul > li.current-menu-ancestor > a, 
+ body #rs-header .menu-sticky.sticky .menu-area .navbar ul > li.current_page_item > a, 
+ body #rs-header .menu-sticky.sticky .menu-area .navbar ul li .sub-menu li.current_page_item > a,
+ body #rs-header .menu-sticky.sticky .menu-area .navbar ul li .sub-menu li.current-menu-item page_item a, 
+ body #rs-header.header-style-4 .menu-sticky.sticky .menu-area .navbar ul > li.current_page_item > a, 
+ body #rs-header.header-style-4 .menu-sticky.sticky .menu-area .menu > li.current-menu-ancestor > a,
+ body #rs-header.header-style5 .menu-area .navbar ul > li.current-menu-ancestor > a, 
+ body #rs-header .header-inner.menu-sticky.sticky .menu-area .navbar ul li:hover::after,
+ body #rs-header.header-style5 .header-inner .menu-area .navbar ul > li.current-menu-ancestor > a, 
+ body #rs-header.header-style5 .header-inner.menu-sticky.sticky .menu-area .navbar ul > li.current-menu-ancestor > a,
+ body #rs-header .menu-sticky.sticky .menu-area .navbar ul > li.current_page_item > a,
+ body #rs-header .menu-sticky.sticky .menu-area .navbar ul > li:hover > a, 
+ body #rs-header.header-style-4 .header-inner.sticky .btn_quote .toolbar-sl-share ul > li a:hover, 
+ body #rs-header.header-style-4 .header-inner.sticky .menu-cart-area i:hover, 
+ body #rs-header.header-style-4 .header-inner.sticky .sidebarmenu-search i:hover, 
+ body #rs-header .menu-sticky.sticky .menu-area .navbar ul li ul.submenu > li.current-menu-ancestor > a{
+ color:#75ae1d !important;
+ } 
+ body #rs-header.header-style5 .header-inner.menu-sticky.stuck.sticky .navbar ul > li.menu-item-has-children.hover-minimize:hover > a:after,
+ body #rs-header .header-inner.menu-sticky.stuck.sticky .navbar ul > li.menu-item-has-children.hover-minimize > a:after
+ { 
+ background:#75ae1d !important;
+ }  body .menu-area .navbar ul > li ul.sub-menu li > a,
+ body #rs-header .menu-area .navbar ul li.mega ul li a, 
+ body #rs-header.header-transparent .menu-area .navbar ul li .sub-menu li.current-menu-ancestor > a, 
+ body #rs-header.header-transparent .menu-area .navbar ul li.current-menu-ancestor li a,  body #rs-header .menu-sticky.sticky .menu-area .navbar ul li .sub-menu li a{
+ color:#ffffff !important;
+ } 
+ body #rs-header.header-style-4 .menu-area .navbar ul > li ul.sub-menu li.current_page_item a,
+ body #rs-header .menu-area .navbar ul > li ul.sub-menu li.current_page_item a,
+ body #rs-header .menu-area .navbar ul > li ul.sub-menu li.current_page_item a,
+ body #rs-header .menu-area .navbar ul li ul.sub-menu li:hover > a,
+ body #rs-header.single-header.header-style5 .menu-area .navbar ul li ul.sub-menu li:hover > a,
+ body #rs-header .menu-sticky.sticky .menu-area .navbar ul li .sub-menu li.current_page_item a,
+ body #rs-header .menu-sticky.sticky .menu-area .navbar ul > li .sub-menu > li a:hover
+ {
+ color:#cccccc !important;
+ }  body #rs-header .toolbar-area{ 
+ background:#609916 !important;
+ } 
+ body #rs-header .toolbar-area .toolbar-contact ul.rs-contact-info li a, 
+ body #rs-header .toolbar-area .toolbar-contact ul li a, 
+ body .tops-btn .btn_login a,
+ body #rs-header .toolbar-area .toolbar-contact ul.rs-contact-info li,
+ body #rs-header .toolbar-area,
+ body #rs-header .toolbar-area .toolbar-sl-share ul li,
+ body #rs-header .toolbar-area .toolbar-sl-share ul li a.quote-buttons,
+ body #rs-header.header-style5 .toolbar-area .opening,
+ body #rs-header .toolbar-area .toolbar-contact ul li i, 
+ body #rs-header .toolbar-area .toolbar-sl-share ul li a.quote-buttons::before,
+ body #rs-header .toolbar-area .toolbar-sl-share ul li a i{ 
+ color:#ffffff !important;
+ } 
+ body #rs-header .toolbar-area .toolbar-contact ul.rs-contact-info li a:hover, 
+ body #rs-header .toolbar-area .toolbar-contact ul li a:hover, 
+ body #rs-header .toolbar-area .toolbar-contact ul li:hover i:before,
+ body #rs-header .toolbar-area .toolbar-contact ul li i:hover, 
+ body .tops-btn .btn_login a:hover,
+ body #rs-header .toolbar-area .toolbar-sl-share ul li a i:hover{ 
+ color:#d1d1d1 !important;
+ }  body #rs-header .toolbar-area .toolbar-contact ul li,
+ body #rs-header .toolbar-area .opening,
+ body #rs-header.header-style5 .toolbar-area,
+ body #rs-header.header-style5 .toolbar-area .opening{ 
+ border-color:#609916 !important;
+ } 
+ body .toolbar-area .toolbar-contact i, 
+ body .toolbar-area .opening i, 
+ body .toolbar-area .opening i:before, 
+ body .toolbar-area .toolbar-contact i::before{ 
+ color:#ffffff !important;
+ } 
+ body .tops-btn .quote-buttons:hover{ 
+ background:rgba(30,34,51,0.81) !important;
+ }  body .tops-btn .quote-buttons:hover{ 
+ color:#555555 !important;
+ }  body .menu-area .navbar ul > li > a,
+ body #rs-header.header-style-3 .rs-contact-location i.phone-icon::before,
+ body #rs-header.header-style-3 .rs-contact-location .contact-inf a,
+ body #rs-header.header-style1 .category-menu .menu li::after, 
+ body #rs-header.header-style-4 .category-menu .menu li::after,
+ body #rs-header.header-style5 .sticky_search i::before{ 
+ color:#2c1764 !important;
+ }  body .menu-area .navbar ul > li:hover > a,
+ #rs-header.header-style5 .menu-area .navbar ul > li.current_page_item ul > a, 
+ #rs-header .menu-area .navbar ul li.mega ul > li > a:hover, 
+ .menu-area .navbar ul li ul.sub-menu li:hover > a, 
+ #rs-header.header-style5 .stuck.sticky .menu-area .navbar ul > li.active a, 
+ #rs-header .menu-area .navbar ul > li.active a,
+ body #rs-header.header-style1 .category-menu .menu li:hover:after, 
+ body #rs-header.header-style-4 .category-menu .menu li:hover:after,
+ #rs-header .menu-area .navbar ul li.mega ul li a:hover, 
+ body .menu-area .navbar ul > li.current-menu-ancestor > a,
+ #rs-header.header-style5 .menu-area .navbar ul > li.current-menu-ancestor > a, 
+ #rs-header.header-style5 .header-inner .menu-area .navbar ul > li.current-menu-ancestor > a, 
+ #rs-header .menu-area .navbar ul li.mega ul > li.current-menu-item > a, 
+ #rs-header.header-transparent .menu-area .navbar ul li.current-menu-ancestor li a:hover,
+ body #rs-header.header-style-4 .menu-area .menu > li.current_page_item > a,
+ body #rs-header.header-style-3 .rs-contact-location .contact-inf a:hover,
+ body #rs-header .menu-area .menu > li.current_page_item > a
+ { 
+ color:#75ae1d !important;
+ }  body #rs-header.header-style5 .header-inner .menu-area .navbar ul > li.menu-item-has-children.hover-minimize:hover > a:after,
+ body #rs-header .menu-area .navbar ul > li.menu-item-has-children.hover-minimize > a:after
+ { 
+ background:#75ae1d !important;
+ }  body #rs-footer ul.footer_social li a
+ { 
+ color:#58585a !important;
+ }  body .offcanvas-icon span.dot1, 
+ body .offcanvas-icon span.dot2, 
+ body .offcanvas-icon span.dot3,
+ body .header-style1.header-style3 .nav-link-container .nav-menu-link span{
+ background:#58585a !important;
+ } 
+ body .offcanvas-icon:hover span.dot1, 
+ body .offcanvas-icon:hover span.dot2, 
+ body .offcanvas-icon:hover span.dot3,
+ #rs-header.header-style-4.header-style6 .nav-link-container .nav-menu-link:hover span,
+ body .header-style1.header-style3 .nav-link-container .nav-menu-link:hover span{
+ background:#75ae1d !important;
+ }  body .rs-footer .footer-top h3.footer-title,
+ body .footer-subscribe .newsletter-title
+ { 
+ color:#58585a !important;
+ } 
+ body .footer-subscribe .subscribe-bg,
+ body .footer-bottom .copyright_border,
+ body .footer-bottom .container
+ { 
+ border-color:#58585a !important;
+ } 
+ body .rs-footer .footer-top, 
+ body .footer-bottom .copyright p,
+ body .rs-footer .footer-top .mc4wp-form-fields i,
+ body .rs-footer .footer-top .mc4wp-form-fields input[type=email]::placeholder,
+ body .rs-footer .footer-top .mc4wp-form-fields input[type=email],
+ .footer-top ul.footer_social > li > a,
+ .rs-footer .recent-post-widget .show-featured .post-desc a,
+ .rs-footer .recent-post-widget .show-featured .post-desc span,
+ body .rs-footer{ 
+ color:#58585a !important;
+ }  body .footer-subscribe input[type="email"]::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+ color:#58585a !important;
+ }
+ body .footer-subscribe input[type="email"]::-moz-placeholder { /* Firefox 19+ */
+ color:#58585a !important;
+ }
+ body .footer-subscribe input[type="email"]:-ms-input-placeholder { /* IE 10+ */
+ color:#58585a !important;
+ }
+ body .footer-subscribe input[type="email"]:-moz-placeholder { /* Firefox 18- */
+ color:#58585a !important;
+ } 
+ body #rs-header .header-inner.sticky .category-menu .menu li:hover:after, 
+ body #rs-header.header-style1 .header-inner.sticky .category-menu .menu li:hover::after, 
+ body #rs-header.header-style-4 .header-inner.sticky .category-menu .menu li:hover::after
+ { 
+ color:#75ae1d !important;
+ }  body #rs-header .header-inner.sticky ul.offcanvas-icon a:hover span.dot1, 
+ body #rs-header .header-inner.sticky ul.offcanvas-icon a:hover span.dot2, 
+ body #rs-header .header-inner.sticky ul.offcanvas-icon a:hover span.dot3
+ { 
+ background:#75ae1d !important;
+ } 
+ .footer-top ul.footer_social > li > a:hover,
+ .rs-blog .blog-meta .blog-title a:hover,
+ .rs-footer.footerdark .footer-top .widget.widget_nav_menu ul li a:hover,
+ .rs-footer a:hover,
+ .rs-footer .widget a:hover,
+ body .rs-footer .recent-post-widget .show-featured .post-desc a:hover,
+ .rs-footer .fa-ul li a:hover,
+ .rs-footer.footerdark .footer-bottom .copyright p a:hover,
+ .rs-footer.footerdark .footer-top .fa-ul li a:hover,
+ .rs-footer.footerdark .footer_social li a:hover .fa,
+ ul.unorder-list li:before { 
+ color:#75ae1d !important;
+ } </style></head><body class="home page-template-default page page-id-8504 wp-custom-logo elementor-default elementor-kit-69 elementor-page elementor-page-8504"> <!--Preloader start here--> <!--Preloader area end here--><div id="page" class="site "><nav class="menu-wrap-off nav-container nav menu-ofcn"><div class="inner-offcan"><div class="nav-link-container"> <a href='#' class="nav-menu-link close-button" id="close-button2"> <span class="hamburger1"></span> <span class="hamburger3"></span> </a></div><div class="sidenav offcanvas-icon"><div id="mobile_menu" class="rs-offcanvas-inner-left"><div class="widget widget_nav_menu mobile-menus"><div class="menu-main-menu-container"><ul id="primary-menu-single1" class="menu"><li id="menu-item-11361" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11361"><a href="https://www.fis.unm.si/studij-na-fis/">Bodoči Študenti</a><ul class="sub-menu"><li id="menu-item-11362" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11362"><a href="https://www.fis.unm.si/postani-student-fis/">Postani študent FIŠ</a></li><li id="menu-item-11363" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11363"><a href="https://www.fis.unm.si/prijava-in-vpis/">Prijava in vpis</a><ul class="sub-menu"><li id="menu-item-12883" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12883"><a href="https://www.fis.unm.si/prijava-in-vpis/racunalnistvo-in-spletne-tehnologije-vs/">Računalništvo in spletne tehnologije (VS)</a></li><li id="menu-item-12907" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12907"><a href="https://www.fis.unm.si/prijava-in-vpis/informatika-v-sodobni-druzbi-vs/">Informatika v sodobni družbi (VS)</a></li><li id="menu-item-12918" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12918"><a href="https://www.fis.unm.si/prijava-in-vpis/informatika-v-sodobni-druzbi-un/">Informatika v sodobni družbi (UN)</a></li><li id="menu-item-12924" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12924"><a href="https://www.fis.unm.si/prijava-in-vpis/racunalnistvo-in-spletne-tehnologije-mag/">Računalništvo in spletne tehnologije (MAG)</a></li><li id="menu-item-12933" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12933"><a href="https://www.fis.unm.si/prijava-in-vpis/informatika-v-sodobni-druzbi-mag/">Informatika v sodobni družbi (MAG)</a></li><li id="menu-item-15370" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15370"><a href="https://www.fis.unm.si/prijava-in-vpis/podatkovne-znanosti-mag/">Podatkovne znanosti (MAG)</a></li><li id="menu-item-12939" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12939"><a href="https://www.fis.unm.si/prijava-in-vpis/informacijska-druzba-dr/">Informacijska družba (DR)</a></li></ul></li><li id="menu-item-11364" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11364"><a href="https://www.fis.unm.si/vpis-kot-obcan/">Vpis kot občan</a></li><li id="menu-item-11365" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11365"><a href="https://www.fis.unm.si/ceniki/">Cenik</a></li><li id="menu-item-11366" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11366"><a href="https://www.fis.unm.si/pogosta-vprasanja/">Pogosta vprašanja</a></li></ul></li><li id="menu-item-11367" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11367"><a href="https://www.fis.unm.si/studijski-programi/">Študijski programi</a><ul class="sub-menu"><li id="menu-item-11368" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11368"><a href="#">Dodiplomski</a><ul class="sub-menu"><li id="menu-item-13600" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13600"><a href="https://www.fis.unm.si/studijski-programi/racunalnistvo-in-spletne-tehnologije-vs/">Računalništvo in spletne tehnologije (VS)</a></li><li id="menu-item-11439" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11439"><a href="https://www.fis.unm.si/studijski-programi/informatika-v-sodobni-druzbi-vs">Informatika v sodobni družbi (VS)</a></li><li id="menu-item-11440" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11440"><a href="https://www.fis.unm.si/studijski-programi/informatika-v-sodobni-druzbi-un">Informatika v sodobni družbi (UN)</a></li></ul></li><li id="menu-item-11369" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11369"><a href="#">Magistrski</a><ul class="sub-menu"><li id="menu-item-11442" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11442"><a href="https://www.fis.unm.si/studijski-programi/racunalnistvo-in-spletne-tehnologije-mag/">Računalništvo in spletne tehnologije (MAG)</a></li><li id="menu-item-11441" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11441"><a href="https://www.fis.unm.si/studijski-programi/informatika-v-sodobni-druzbi-mag/">Informatika v sodobni družbi (MAG)</a></li><li id="menu-item-11444" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11444"><a href="https://www.fis.unm.si/studijski-programi/podatkovne-znanosti-mag/">Podatkovne znanosti (MAG)</a></li></ul></li><li id="menu-item-11370" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11370"><a href="#">Doktorski</a><ul class="sub-menu"><li id="menu-item-11443" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11443"><a href="https://www.fis.unm.si/studijski-programi/informacijska-druzba-dr/">Informacijska družba (DR)</a></li></ul></li></ul></li><li id="menu-item-11371" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11371"><a href="https://www.fis.unm.si/studenti/">Študenti</a><ul class="sub-menu"><li id="menu-item-11373" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11373"><a href="https://www.fis.unm.si/referat/">Referat</a></li><li id="menu-item-11374" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11374"><a href="https://www.fis.unm.si/urnik-in-studijski-koledar/">Urnik in študijski koledar</a></li><li id="menu-item-11375" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11375"><a href="https://www.fis.unm.si/moodle/">Moodle</a></li><li id="menu-item-11376" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11376"><a href="https://www.fis.unm.si/knjiznica/">Knjižnica</a><ul class="sub-menu"><li id="menu-item-13337" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13337"><a href="https://www.fis.unm.si/knjiznica/storitve/">Storitve</a></li><li id="menu-item-13349" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13349"><a href="https://www.fis.unm.si/knjiznica/e-knjiznica/">E-knjižnica</a></li><li id="menu-item-13358" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13358"><a href="https://www.fis.unm.si/knjiznica/katalogi/">Katalogi</a></li></ul></li><li id="menu-item-11377" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11377"><a href="https://www.fis.unm.si/karierni-center-fis/">Karierni center</a><ul class="sub-menu"><li id="menu-item-13962" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13962"><a href="https://www.fis.unm.si/zaposlitveni-oglasi/">Novice in zaposlitveni oglasi</a></li></ul></li><li id="menu-item-11378" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11378"><a href="https://www.fis.unm.si/obstudijski-dogodki/">Obštudijski dogodki</a></li><li id="menu-item-11379" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11379"><a href="https://www.fis.unm.si/mednarodne-izmenjave/">Mednarodne izmenjave</a><ul class="sub-menu"><li id="menu-item-13474" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13474"><a href="https://www.fis.unm.si/mednarodne-izmenjave/studij-v-tujini/">Študij v tujini</a></li><li id="menu-item-13520" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13520"><a href="https://www.fis.unm.si/mednarodne-izmenjave/praksa-v-tujini/">Praksa v tujini</a></li></ul></li><li id="menu-item-11380" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11380"><a href="https://www.fis.unm.si/studentski-svet/">Študentski svet</a></li><li id="menu-item-11381" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11381"><a href="https://www.fis.unm.si/tehnicne-ugodnosti/">Tehnične ugodnosti</a></li><li id="menu-item-11382" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11382"><a href="https://www.fis.unm.si/alumni-klub/">Alumni klub</a></li></ul></li><li id="menu-item-11383" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11383"><a href="https://www.fis.unm.si/raziskave-in-razvoj/">Raziskave in razvoj</a><ul class="sub-menu"><li id="menu-item-11384" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11384"><a href="https://www.fis.unm.si/dogodki-posveti-in-konference/">Dogodki, posveti in konference</a></li><li id="menu-item-11385" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11385"><a href="https://www.fis.unm.si/znanstvene-usmeritve/">Znanstvene usmeritve</a></li><li id="menu-item-11386" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11386"><a href="#">Projekti</a><ul class="sub-menu"><li id="menu-item-13648" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13648"><a href="https://www.fis.unm.si/pedagoski-projekti/">Pedagoški projekti</a><ul class="sub-menu"><li id="menu-item-11387" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11387"><a href="https://www.fis.unm.si/pedagoski-projekti/pedagoski-projekti-tekoci/">Pedagoški projekti (tekoči)</a></li><li id="menu-item-11388" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11388"><a href="https://www.fis.unm.si/pedagoski-projekti/pedagoski-projekti-zakljuceni/">Pedagoški projekti (zaključeni)</a></li></ul></li><li id="menu-item-15156" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-15156"><a href="https://www.fis.unm.si/znanstveno-raziskovalni-projekti/">Znanstveno-raziskovalni projekti</a><ul class="sub-menu"><li id="menu-item-15157" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15157"><a href="https://www.fis.unm.si/znanstveno-raziskovalni-projekti/znanstveno-raziskovalni-projekti-tekoci/">Znanstveno-raziskovalni projekti (tekoči)</a></li><li id="menu-item-15158" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15158"><a href="https://www.fis.unm.si/znanstveno-raziskovalni-projekti/znanstveno-raziskovalni-projekti-zakljuceni/">Znanstveno-raziskovalni projekti (zaključeni)</a></li></ul></li><li id="menu-item-13528" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13528"><a href="https://www.fis.unm.si/mednarodne-izmenjave/akademske-izmenjave/">Akademske izmenjave</a></li><li id="menu-item-13537" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13537"><a href="https://www.fis.unm.si/mednarodne-izmenjave/izmenjave-zaposlenih/">Izmenjava zaposlenih</a></li></ul></li><li id="menu-item-11389" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11389"><a href="https://www.fis.unm.si/projekti-razvoja-aplikacij-nasih-studentov/">Projekti razvoja aplikacij naših študentov</a></li><li id="menu-item-11390" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11390"><a href="https://www.fis.unm.si/raziskovalne-skupine/">Raziskovalne skupine</a></li><li id="menu-item-11391" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11391"><a href="https://www.fis.unm.si/racunalniska-infrastruktura/">Računalniška infrastruktura &#8211; HPC center</a></li><li id="menu-item-11392" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11392"><a href="https://www.fis.unm.si/sodelujmo/">Sodelujemo</a></li></ul></li><li id="menu-item-11393" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11393"><a href="https://www.fis.unm.si/novice/">Novice</a></li><li id="menu-item-11394" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11394"><a href="#">O fakulteti</a><ul class="sub-menu"><li id="menu-item-11395" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11395"><a href="https://www.fis.unm.si/vizitka/">Splošni podatki o visokošolskem zavodu</a></li><li id="menu-item-11396" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11396"><a href="https://www.fis.unm.si/nasa-zgodba/">Naša zgodba</a></li><li id="menu-item-11397" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11397"><a href="https://www.fis.unm.si/organiziranost/">Organiziranost</a></li><li id="menu-item-11398" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11398"><a href="https://www.fis.unm.si/sodelavci/">Sodelavci</a><ul class="sub-menu"><li id="menu-item-11399" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11399"><a href="https://www.fis.unm.si/pedagoski-in-znanstveni-sodelavci/">Pedagoški in znanstveni sodelavci</a></li><li id="menu-item-11400" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11400"><a href="https://www.fis.unm.si/strokovni-sodelavci/">Strokovni sodelavci</a></li></ul></li><li id="menu-item-11401" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11401"><a href="https://www.fis.unm.si/katalog-dokumentov/">Katalog dokumentov</a></li><li id="menu-item-11407" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11407"><a href="https://www.fis.unm.si/za-medije/">Za medije</a></li></ul></li><li id="menu-item-wpml-ls-2-sl" class="menu-item wpml-ls-slot-2 wpml-ls-item wpml-ls-item-sl wpml-ls-current-language wpml-ls-menu-item wpml-ls-first-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-has-children menu-item-wpml-ls-2-sl"><a title="Slovenščina" href="https://www.fis.unm.si"><img
+ class="wpml-ls-flag"
+ src="https://www.fis.unm.si/wp-content/plugins/sitepress-multilingual-cms/res/flags/sl.png"
+ alt="" 
+ /><span class="wpml-ls-native" lang="sl">Slovenščina</span></a><ul class="sub-menu"><li id="menu-item-wpml-ls-2-en" class="menu-item wpml-ls-slot-2 wpml-ls-item wpml-ls-item-en wpml-ls-menu-item wpml-ls-last-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-wpml-ls-2-en"><a title="English" href="https://www.fis.unm.si/?lang=en"><img
+ class="wpml-ls-flag"
+ src="https://www.fis.unm.si/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.png"
+ alt="" 
+ /><span class="wpml-ls-native" lang="en">English</span></a></li></ul></li></ul></div></div></div></div></div></nav> <!-- Mobile Menu Start --><div class="responsive-menus"><nav class="nav-container mobile-menu-container mobile-menus menu-wrap-off fdgdgfdg"><ul class="sidenav"><li class='nav-link-container'> <a href='#' class="nav-menu-link close-button"> <span class="hamburger1"></span> <span class="hamburger3"></span> </a></li><li><div class="menu-main-menu-container"><ul id="primary-menu-single2" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11361"><a href="https://www.fis.unm.si/studij-na-fis/">Bodoči Študenti</a><ul class="sub-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11362"><a href="https://www.fis.unm.si/postani-student-fis/">Postani študent FIŠ</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11363"><a href="https://www.fis.unm.si/prijava-in-vpis/">Prijava in vpis</a><ul class="sub-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12883"><a href="https://www.fis.unm.si/prijava-in-vpis/racunalnistvo-in-spletne-tehnologije-vs/">Računalništvo in spletne tehnologije (VS)</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12907"><a href="https://www.fis.unm.si/prijava-in-vpis/informatika-v-sodobni-druzbi-vs/">Informatika v sodobni družbi (VS)</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12918"><a href="https://www.fis.unm.si/prijava-in-vpis/informatika-v-sodobni-druzbi-un/">Informatika v sodobni družbi (UN)</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12924"><a href="https://www.fis.unm.si/prijava-in-vpis/racunalnistvo-in-spletne-tehnologije-mag/">Računalništvo in spletne tehnologije (MAG)</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12933"><a href="https://www.fis.unm.si/prijava-in-vpis/informatika-v-sodobni-druzbi-mag/">Informatika v sodobni družbi (MAG)</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15370"><a href="https://www.fis.unm.si/prijava-in-vpis/podatkovne-znanosti-mag/">Podatkovne znanosti (MAG)</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12939"><a href="https://www.fis.unm.si/prijava-in-vpis/informacijska-druzba-dr/">Informacijska družba (DR)</a></li></ul></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11364"><a href="https://www.fis.unm.si/vpis-kot-obcan/">Vpis kot občan</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11365"><a href="https://www.fis.unm.si/ceniki/">Cenik</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11366"><a href="https://www.fis.unm.si/pogosta-vprasanja/">Pogosta vprašanja</a></li></ul></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11367"><a href="https://www.fis.unm.si/studijski-programi/">Študijski programi</a><ul class="sub-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11368"><a href="#">Dodiplomski</a><ul class="sub-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13600"><a href="https://www.fis.unm.si/studijski-programi/racunalnistvo-in-spletne-tehnologije-vs/">Računalništvo in spletne tehnologije (VS)</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11439"><a href="https://www.fis.unm.si/studijski-programi/informatika-v-sodobni-druzbi-vs">Informatika v sodobni družbi (VS)</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11440"><a href="https://www.fis.unm.si/studijski-programi/informatika-v-sodobni-druzbi-un">Informatika v sodobni družbi (UN)</a></li></ul></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11369"><a href="#">Magistrski</a><ul class="sub-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11442"><a href="https://www.fis.unm.si/studijski-programi/racunalnistvo-in-spletne-tehnologije-mag/">Računalništvo in spletne tehnologije (MAG)</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11441"><a href="https://www.fis.unm.si/studijski-programi/informatika-v-sodobni-druzbi-mag/">Informatika v sodobni družbi (MAG)</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11444"><a href="https://www.fis.unm.si/studijski-programi/podatkovne-znanosti-mag/">Podatkovne znanosti (MAG)</a></li></ul></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11370"><a href="#">Doktorski</a><ul class="sub-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11443"><a href="https://www.fis.unm.si/studijski-programi/informacijska-druzba-dr/">Informacijska družba (DR)</a></li></ul></li></ul></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11371"><a href="https://www.fis.unm.si/studenti/">Študenti</a><ul class="sub-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11373"><a href="https://www.fis.unm.si/referat/">Referat</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11374"><a href="https://www.fis.unm.si/urnik-in-studijski-koledar/">Urnik in študijski koledar</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11375"><a href="https://www.fis.unm.si/moodle/">Moodle</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11376"><a href="https://www.fis.unm.si/knjiznica/">Knjižnica</a><ul class="sub-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13337"><a href="https://www.fis.unm.si/knjiznica/storitve/">Storitve</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13349"><a href="https://www.fis.unm.si/knjiznica/e-knjiznica/">E-knjižnica</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13358"><a href="https://www.fis.unm.si/knjiznica/katalogi/">Katalogi</a></li></ul></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11377"><a href="https://www.fis.unm.si/karierni-center-fis/">Karierni center</a><ul class="sub-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13962"><a href="https://www.fis.unm.si/zaposlitveni-oglasi/">Novice in zaposlitveni oglasi</a></li></ul></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11378"><a href="https://www.fis.unm.si/obstudijski-dogodki/">Obštudijski dogodki</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11379"><a href="https://www.fis.unm.si/mednarodne-izmenjave/">Mednarodne izmenjave</a><ul class="sub-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13474"><a href="https://www.fis.unm.si/mednarodne-izmenjave/studij-v-tujini/">Študij v tujini</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13520"><a href="https://www.fis.unm.si/mednarodne-izmenjave/praksa-v-tujini/">Praksa v tujini</a></li></ul></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11380"><a href="https://www.fis.unm.si/studentski-svet/">Študentski svet</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11381"><a href="https://www.fis.unm.si/tehnicne-ugodnosti/">Tehnične ugodnosti</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11382"><a href="https://www.fis.unm.si/alumni-klub/">Alumni klub</a></li></ul></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11383"><a href="https://www.fis.unm.si/raziskave-in-razvoj/">Raziskave in razvoj</a><ul class="sub-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11384"><a href="https://www.fis.unm.si/dogodki-posveti-in-konference/">Dogodki, posveti in konference</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11385"><a href="https://www.fis.unm.si/znanstvene-usmeritve/">Znanstvene usmeritve</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11386"><a href="#">Projekti</a><ul class="sub-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13648"><a href="https://www.fis.unm.si/pedagoski-projekti/">Pedagoški projekti</a><ul class="sub-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11387"><a href="https://www.fis.unm.si/pedagoski-projekti/pedagoski-projekti-tekoci/">Pedagoški projekti (tekoči)</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11388"><a href="https://www.fis.unm.si/pedagoski-projekti/pedagoski-projekti-zakljuceni/">Pedagoški projekti (zaključeni)</a></li></ul></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-15156"><a href="https://www.fis.unm.si/znanstveno-raziskovalni-projekti/">Znanstveno-raziskovalni projekti</a><ul class="sub-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15157"><a href="https://www.fis.unm.si/znanstveno-raziskovalni-projekti/znanstveno-raziskovalni-projekti-tekoci/">Znanstveno-raziskovalni projekti (tekoči)</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15158"><a href="https://www.fis.unm.si/znanstveno-raziskovalni-projekti/znanstveno-raziskovalni-projekti-zakljuceni/">Znanstveno-raziskovalni projekti (zaključeni)</a></li></ul></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13528"><a href="https://www.fis.unm.si/mednarodne-izmenjave/akademske-izmenjave/">Akademske izmenjave</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13537"><a href="https://www.fis.unm.si/mednarodne-izmenjave/izmenjave-zaposlenih/">Izmenjava zaposlenih</a></li></ul></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11389"><a href="https://www.fis.unm.si/projekti-razvoja-aplikacij-nasih-studentov/">Projekti razvoja aplikacij naših študentov</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11390"><a href="https://www.fis.unm.si/raziskovalne-skupine/">Raziskovalne skupine</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11391"><a href="https://www.fis.unm.si/racunalniska-infrastruktura/">Računalniška infrastruktura &#8211; HPC center</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11392"><a href="https://www.fis.unm.si/sodelujmo/">Sodelujemo</a></li></ul></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11393"><a href="https://www.fis.unm.si/novice/">Novice</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11394"><a href="#">O fakulteti</a><ul class="sub-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11395"><a href="https://www.fis.unm.si/vizitka/">Splošni podatki o visokošolskem zavodu</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11396"><a href="https://www.fis.unm.si/nasa-zgodba/">Naša zgodba</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11397"><a href="https://www.fis.unm.si/organiziranost/">Organiziranost</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11398"><a href="https://www.fis.unm.si/sodelavci/">Sodelavci</a><ul class="sub-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11399"><a href="https://www.fis.unm.si/pedagoski-in-znanstveni-sodelavci/">Pedagoški in znanstveni sodelavci</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11400"><a href="https://www.fis.unm.si/strokovni-sodelavci/">Strokovni sodelavci</a></li></ul></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11401"><a href="https://www.fis.unm.si/katalog-dokumentov/">Katalog dokumentov</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11407"><a href="https://www.fis.unm.si/za-medije/">Za medije</a></li></ul></li><li class="menu-item wpml-ls-slot-2 wpml-ls-item wpml-ls-item-sl wpml-ls-current-language wpml-ls-menu-item wpml-ls-first-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-has-children menu-item-wpml-ls-2-sl"><a title="Slovenščina" href="https://www.fis.unm.si"><img
+ class="wpml-ls-flag"
+ src="https://www.fis.unm.si/wp-content/plugins/sitepress-multilingual-cms/res/flags/sl.png"
+ alt="" 
+ /><span class="wpml-ls-native" lang="sl">Slovenščina</span></a><ul class="sub-menu"><li class="menu-item wpml-ls-slot-2 wpml-ls-item wpml-ls-item-en wpml-ls-menu-item wpml-ls-last-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-wpml-ls-2-en"><a title="English" href="https://www.fis.unm.si/?lang=en"><img
+ class="wpml-ls-flag"
+ src="https://www.fis.unm.si/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.png"
+ alt="" 
+ /><span class="wpml-ls-native" lang="en">English</span></a></li></ul></li></ul></div></li></ul><div class="social-icon-responsive"><ul class="offcanvas_social"><li> <a href="https://www.facebook.com/FakultetaFIS" target="_blank"><span><i class="fa fa-facebook"></i></span></a></li><li> <a href="https://twitter.com/fisnm " target="_blank"><span><i class="fa fa-twitter"></i></span></a></li><li> <a href="https://www.linkedin.com/company/faculty-of-information-studies/ " target="_blank"><span><i class="fa fa-linkedin"></i></span></a></li><li> <a href="https://www.instagram.com/fis.nm/ " target="_blank"><span><i class="fa fa-instagram"></i></span></a></li><li> <a href="https://www.youtube.com/channel/UCyju-1lpv7TOGy0UTNk5q3Q " target="_blank"><span><i class="fa fa-youtube"></i></span></a></li></ul></div></nav></div> <!-- Mobile Menu End --><header id="rs-header" class="single-header header-style1 mainsmenu       mobile-hide-button menu-drob-align"><div class="sticky_form"><div class="sticky_form_full"><form role="search" class="bs-search search-form" method="get" action="https://www.fis.unm.si/"><div class="search-wrap"> <label class="screen-reader-text"> Search for: </label> <input type="search" placeholder="Searching..." name="s" class="search-input" value="" /> <button type="submit"  value="Search"><i class="flaticon-search"></i></button></div> <input type='hidden' name='lang' value='sl' /></form></div><i class="flaticon-cross close-search sticky_search sticky_form_search"></i></div><div class="header-inner  menu-sticky stuck"> <!-- Header Menu Start --> <!-- Topbar Start --><div class="toolbar-area "><div class="container"><div class="row"><div class="col-lg-5"><div class="toolbar-contact"><ul class="rs-contact-info"><li class="rs-contact-email"> <i class="glyph-icon flaticon-email"></i> <a href="mailto:info@fis.unm.si">info@fis.unm.si</a></li><li class="rs-contact-email"> <i class="glyph-icon flaticon-email"></i> <a href="https://fis.unm.si/strokovni-sodelavci/">Kontakti</a></li><li class="rs-contact-phone"> <i class="fa flaticon-call"></i> <a href="tel:073737884"> 07 3737 884</a></li></ul></div></div><div class="col-lg-7"><div class="toolbar-sl-share"><ul class="clearfix"><li class="hitre-povezave"> <a href="https://moodle.fis.unm.si/login/index.php">Moodle | </a><a href="https://vis.fis.unm.si/">Spletni referat | </a></a><a href="https://wise-tt.com/wtt_nm_fis/">Urnik</a></li></ul></div></div></div></div></div> <!-- Topbar End --><div class="menu-area menu_type_" ><div class="container"><div class="row-table"><div class="col-cell header-logo"><div class="logo-area"> <a href="https://www.fis.unm.si/" rel="home"><img style = "max-height: 100px !important" src="https://www.fis.unm.si/wp-content/uploads/2020/12/logo-e1612513506503.png" alt="FIŠ - Fakulteta za informacijske študije"></a></div><div class="logo-area sticky-logo"> <a href="https://www.fis.unm.si/" rel="home"><img style = "max-height: 90px !important" src="https://www.fis.unm.si/wp-content/uploads/2020/12/logo-majhen-e1611690544583.png" alt="FIŠ - Fakulteta za informacijske študije"></a></div></div><div class="col-cell menu-responsive"><nav class="nav navbar"><div class="navbar-menu"><div class="menu-main-menu-container"><ul id="primary-menu-single" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11361"><a href="https://www.fis.unm.si/studij-na-fis/">Bodoči Študenti</a><ul class="sub-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11362"><a href="https://www.fis.unm.si/postani-student-fis/">Postani študent FIŠ</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11363"><a href="https://www.fis.unm.si/prijava-in-vpis/">Prijava in vpis</a><ul class="sub-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12883"><a href="https://www.fis.unm.si/prijava-in-vpis/racunalnistvo-in-spletne-tehnologije-vs/">Računalništvo in spletne tehnologije (VS)</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12907"><a href="https://www.fis.unm.si/prijava-in-vpis/informatika-v-sodobni-druzbi-vs/">Informatika v sodobni družbi (VS)</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12918"><a href="https://www.fis.unm.si/prijava-in-vpis/informatika-v-sodobni-druzbi-un/">Informatika v sodobni družbi (UN)</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12924"><a href="https://www.fis.unm.si/prijava-in-vpis/racunalnistvo-in-spletne-tehnologije-mag/">Računalništvo in spletne tehnologije (MAG)</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12933"><a href="https://www.fis.unm.si/prijava-in-vpis/informatika-v-sodobni-druzbi-mag/">Informatika v sodobni družbi (MAG)</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15370"><a href="https://www.fis.unm.si/prijava-in-vpis/podatkovne-znanosti-mag/">Podatkovne znanosti (MAG)</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12939"><a href="https://www.fis.unm.si/prijava-in-vpis/informacijska-druzba-dr/">Informacijska družba (DR)</a></li></ul></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11364"><a href="https://www.fis.unm.si/vpis-kot-obcan/">Vpis kot občan</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11365"><a href="https://www.fis.unm.si/ceniki/">Cenik</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11366"><a href="https://www.fis.unm.si/pogosta-vprasanja/">Pogosta vprašanja</a></li></ul></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11367"><a href="https://www.fis.unm.si/studijski-programi/">Študijski programi</a><ul class="sub-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11368"><a href="#">Dodiplomski</a><ul class="sub-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13600"><a href="https://www.fis.unm.si/studijski-programi/racunalnistvo-in-spletne-tehnologije-vs/">Računalništvo in spletne tehnologije (VS)</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11439"><a href="https://www.fis.unm.si/studijski-programi/informatika-v-sodobni-druzbi-vs">Informatika v sodobni družbi (VS)</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11440"><a href="https://www.fis.unm.si/studijski-programi/informatika-v-sodobni-druzbi-un">Informatika v sodobni družbi (UN)</a></li></ul></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11369"><a href="#">Magistrski</a><ul class="sub-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11442"><a href="https://www.fis.unm.si/studijski-programi/racunalnistvo-in-spletne-tehnologije-mag/">Računalništvo in spletne tehnologije (MAG)</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11441"><a href="https://www.fis.unm.si/studijski-programi/informatika-v-sodobni-druzbi-mag/">Informatika v sodobni družbi (MAG)</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11444"><a href="https://www.fis.unm.si/studijski-programi/podatkovne-znanosti-mag/">Podatkovne znanosti (MAG)</a></li></ul></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11370"><a href="#">Doktorski</a><ul class="sub-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11443"><a href="https://www.fis.unm.si/studijski-programi/informacijska-druzba-dr/">Informacijska družba (DR)</a></li></ul></li></ul></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11371"><a href="https://www.fis.unm.si/studenti/">Študenti</a><ul class="sub-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11373"><a href="https://www.fis.unm.si/referat/">Referat</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11374"><a href="https://www.fis.unm.si/urnik-in-studijski-koledar/">Urnik in študijski koledar</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11375"><a href="https://www.fis.unm.si/moodle/">Moodle</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11376"><a href="https://www.fis.unm.si/knjiznica/">Knjižnica</a><ul class="sub-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13337"><a href="https://www.fis.unm.si/knjiznica/storitve/">Storitve</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13349"><a href="https://www.fis.unm.si/knjiznica/e-knjiznica/">E-knjižnica</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13358"><a href="https://www.fis.unm.si/knjiznica/katalogi/">Katalogi</a></li></ul></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11377"><a href="https://www.fis.unm.si/karierni-center-fis/">Karierni center</a><ul class="sub-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13962"><a href="https://www.fis.unm.si/zaposlitveni-oglasi/">Novice in zaposlitveni oglasi</a></li></ul></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11378"><a href="https://www.fis.unm.si/obstudijski-dogodki/">Obštudijski dogodki</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11379"><a href="https://www.fis.unm.si/mednarodne-izmenjave/">Mednarodne izmenjave</a><ul class="sub-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13474"><a href="https://www.fis.unm.si/mednarodne-izmenjave/studij-v-tujini/">Študij v tujini</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13520"><a href="https://www.fis.unm.si/mednarodne-izmenjave/praksa-v-tujini/">Praksa v tujini</a></li></ul></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11380"><a href="https://www.fis.unm.si/studentski-svet/">Študentski svet</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11381"><a href="https://www.fis.unm.si/tehnicne-ugodnosti/">Tehnične ugodnosti</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11382"><a href="https://www.fis.unm.si/alumni-klub/">Alumni klub</a></li></ul></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11383"><a href="https://www.fis.unm.si/raziskave-in-razvoj/">Raziskave in razvoj</a><ul class="sub-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11384"><a href="https://www.fis.unm.si/dogodki-posveti-in-konference/">Dogodki, posveti in konference</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11385"><a href="https://www.fis.unm.si/znanstvene-usmeritve/">Znanstvene usmeritve</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11386"><a href="#">Projekti</a><ul class="sub-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13648"><a href="https://www.fis.unm.si/pedagoski-projekti/">Pedagoški projekti</a><ul class="sub-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11387"><a href="https://www.fis.unm.si/pedagoski-projekti/pedagoski-projekti-tekoci/">Pedagoški projekti (tekoči)</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11388"><a href="https://www.fis.unm.si/pedagoski-projekti/pedagoski-projekti-zakljuceni/">Pedagoški projekti (zaključeni)</a></li></ul></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-15156"><a href="https://www.fis.unm.si/znanstveno-raziskovalni-projekti/">Znanstveno-raziskovalni projekti</a><ul class="sub-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15157"><a href="https://www.fis.unm.si/znanstveno-raziskovalni-projekti/znanstveno-raziskovalni-projekti-tekoci/">Znanstveno-raziskovalni projekti (tekoči)</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15158"><a href="https://www.fis.unm.si/znanstveno-raziskovalni-projekti/znanstveno-raziskovalni-projekti-zakljuceni/">Znanstveno-raziskovalni projekti (zaključeni)</a></li></ul></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13528"><a href="https://www.fis.unm.si/mednarodne-izmenjave/akademske-izmenjave/">Akademske izmenjave</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13537"><a href="https://www.fis.unm.si/mednarodne-izmenjave/izmenjave-zaposlenih/">Izmenjava zaposlenih</a></li></ul></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11389"><a href="https://www.fis.unm.si/projekti-razvoja-aplikacij-nasih-studentov/">Projekti razvoja aplikacij naših študentov</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11390"><a href="https://www.fis.unm.si/raziskovalne-skupine/">Raziskovalne skupine</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11391"><a href="https://www.fis.unm.si/racunalniska-infrastruktura/">Računalniška infrastruktura &#8211; HPC center</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11392"><a href="https://www.fis.unm.si/sodelujmo/">Sodelujemo</a></li></ul></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11393"><a href="https://www.fis.unm.si/novice/">Novice</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11394"><a href="#">O fakulteti</a><ul class="sub-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11395"><a href="https://www.fis.unm.si/vizitka/">Splošni podatki o visokošolskem zavodu</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11396"><a href="https://www.fis.unm.si/nasa-zgodba/">Naša zgodba</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11397"><a href="https://www.fis.unm.si/organiziranost/">Organiziranost</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-11398"><a href="https://www.fis.unm.si/sodelavci/">Sodelavci</a><ul class="sub-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11399"><a href="https://www.fis.unm.si/pedagoski-in-znanstveni-sodelavci/">Pedagoški in znanstveni sodelavci</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11400"><a href="https://www.fis.unm.si/strokovni-sodelavci/">Strokovni sodelavci</a></li></ul></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11401"><a href="https://www.fis.unm.si/katalog-dokumentov/">Katalog dokumentov</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11407"><a href="https://www.fis.unm.si/za-medije/">Za medije</a></li></ul></li><li class="menu-item wpml-ls-slot-2 wpml-ls-item wpml-ls-item-sl wpml-ls-current-language wpml-ls-menu-item wpml-ls-first-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-has-children menu-item-wpml-ls-2-sl"><a title="Slovenščina" href="https://www.fis.unm.si"><img
+ class="wpml-ls-flag"
+ src="https://www.fis.unm.si/wp-content/plugins/sitepress-multilingual-cms/res/flags/sl.png"
+ alt="" 
+ /><span class="wpml-ls-native" lang="sl">Slovenščina</span></a><ul class="sub-menu"><li class="menu-item wpml-ls-slot-2 wpml-ls-item wpml-ls-item-en wpml-ls-menu-item wpml-ls-last-item menu-item-type-wpml_ls_menu_item menu-item-object-wpml_ls_menu_item menu-item-wpml-ls-2-en"><a title="English" href="https://www.fis.unm.si/?lang=en"><img
+ class="wpml-ls-flag"
+ src="https://www.fis.unm.si/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.png"
+ alt="" 
+ /><span class="wpml-ls-native" lang="en">English</span></a></li></ul></li></ul></div></div></nav></div><div class="col-cell header-quote"><div class="sidebarmenu-search text-right"><div class="sidebarmenu-search"><div class="sticky_search"> <i class="flaticon-search"></i></div></div></div><div class="sidebarmenu-area text-right mobilehum"><ul class="offcanvas-icon"><li class="nav-link-container"> <a href='#' class="nav-menu-link menu-button"> <span class="dot1"></span> <span class="dot2"></span> <span class="dot3"></span> </a></li></ul></div></div></div></div></div> <!-- Header Menu End --></div> <!-- End Slider area  --></header> <!-- START slidersl REVOLUTION SLIDER 6.3.1 --><p class="rs-p-wp-fix"></p> <rs-module-wrap id="rev_slider_15_1_wrapper" data-source="gallery" style="background:transparent;padding:0;margin:0px auto;margin-top:0;margin-bottom:0;max-width:1400px;"> <rs-module id="rev_slider_15_1" style="" data-version="6.3.1"> <rs-slides> <rs-slide data-key="rs-47" data-title="Slide" data-thumb="//www.fis.unm.si/media/Info-dan-11.6.-rotator-50x100.png" data-anim="ei:d;eo:d;s:1000;r:0;t:fade;sl:0;"> <img src="//www.fis.unm.si/media/Info-dan-11.6.-rotator.png" title="Info dan 11.6. rotator" width="1694" height="524" data-bg="p:center top;" data-parallax="off" class="rev-slidebg" data-no-retina> <!--
+ --><a
+ id="slider-15-slide-47-layer-1" 
+ class="rs-layer rev-btn"
+ href="https://www.fis.unm.si/online-informativni-dan-11-6-2021/" target="_self" rel="nofollow"
+ data-type="button"
+ data-color="#ffffff"
+ data-rsp_ch="on"
+ data-xy="x:812px;y:92px;"
+ data-text="w:normal;s:25;l:57;fw:700;a:center;"
+ data-padding="t:12;r:44;b:12;l:44;"
+ data-border="bor:4px,4px,4px,4px;"
+ data-frame_0="y:bottom;"
+ data-frame_1="st:1440;sp:2630;sR:1440;"
+ data-frame_999="o:0;st:w;sR:4930;"
+ data-frame_hover="c:#fff;bgc:#693cde;bor:4px,4px,4px,4px;bri:120%;"
+ style="z-index:8;background-color:#693CDE;font-family:Nunito;text-transform:uppercase;"
+ >VABLJENI! </a><!--
+--> </rs-slide> <rs-slide data-key="rs-19" data-title="Slide" data-thumb="//fis.unm.si/wp-content/uploads/2021/03/Kopija-izdelka-1.-prijavni-rok-za-studij-na-2.-in-3.-stopnji.png" data-anim="ei:d;eo:d;s:1000;r:0;t:fade;sl:0;"> <img src="//fis.unm.si/wp-content/uploads/2021/03/Kopija-izdelka-1.-prijavni-rok-za-studij-na-2.-in-3.-stopnji.png" title="Kopija izdelka 1. prijavni rok za študij na 2. in 3. stopnji" width="1694" height="524" data-bg="p:center top;" data-parallax="off" class="rev-slidebg" data-no-retina> <!--
+ --><a
+ id="slider-15-slide-19-layer-1" 
+ class="rs-layer rev-btn"
+ href="https://fis.unm.si/prijava-in-vpis/" target="_self" rel="nofollow"
+ data-type="button"
+ data-color="#ffffff"
+ data-rsp_ch="on"
+ data-xy="x:607px;y:369px;"
+ data-text="w:normal;s:26;l:59;fw:700;"
+ data-padding="t:13;r:46;b:13;l:46;"
+ data-border="bor:4px,4px,4px,4px;"
+ data-frame_0="y:bottom;"
+ data-frame_1="st:1440;sp:2630;sR:1440;"
+ data-frame_999="o:0;st:w;sR:4930;"
+ data-frame_hover="c:#fff;bgc:#693cde;bor:4px,4px,4px,4px;bri:120%;"
+ style="z-index:8;background-color:#693CDE;font-family:Nunito;text-transform:uppercase;"
+ >Postani študent/-ka fiš! </a><!--
+--> </rs-slide> <rs-slide data-key="rs-45" data-title="Slide" data-thumb="//fis.unm.si/wp-content/uploads/2021/03/Postani-student_ka-FIS-1-2.png" data-anim="ei:d;eo:d;s:1000;r:0;t:fade;sl:0;"> <img src="//fis.unm.si/wp-content/uploads/2021/03/Postani-student_ka-FIS-1-2.png" title="Postani študent_ka FIŠ! 1 (2)" width="1694" height="524" data-bg="p:center top;" data-parallax="off" class="rev-slidebg" data-no-retina> <!--
+ --><a
+ id="slider-15-slide-45-layer-2" 
+ class="rs-layer rev-btn"
+ href="https://fis.unm.si/studijski-programi/" target="_self" rel="nofollow"
+ data-type="button"
+ data-color="#ffffff"
+ data-rsp_ch="on"
+ data-xy="x:898px;y:108px;"
+ data-text="w:normal;s:27;l:64;fw:700;"
+ data-padding="t:14;r:48;b:14;l:48;"
+ data-border="bor:4px,4px,4px,4px;"
+ data-frame_0="y:bottom;"
+ data-frame_1="st:1440;sp:2630;sR:1440;"
+ data-frame_999="o:0;st:w;sR:4930;"
+ data-frame_hover="c:#fff;bgc:#693cde;bor:4px,4px,4px,4px;bri:120%;"
+ style="z-index:8;background-color:#693CDE;font-family:Nunito;text-transform:uppercase;"
+ >Pridruži se nam! </a><!--
+--> </rs-slide> </rs-slides> </rs-module> <script type="text/javascript"> setREVStartSize({c: 'rev_slider_15_1',rl:[1240,1024,778,480],el:[524],gw:[1694],gh:[524],type:'standard',justify:'',layout:'fullwidth',mh:"0"});
+ var	revapi15,
+ tpj;
+ function revinit_revslider151() {
+ jQuery(function() {
+ tpj = jQuery;
+ revapi15 = tpj("#rev_slider_15_1");
+ if(revapi15==undefined || revapi15.revolution == undefined){
+ revslider_showDoubleJqueryError("rev_slider_15_1");
+ }else{
+ revapi15.revolution({
+ visibilityLevels:"1240,1024,778,480",
+ gridwidth:1694,
+ gridheight:524,
+ spinner:"spinner0",
+ perspective:600,
+ perspectiveType:"global",
+ editorheight:"524,520,600,500",
+ responsiveLevels:"1240,1024,778,480",
+ progressBar:{disableProgressBar:true},
+ navigation: {
+ wheelCallDelay:1000,
+ onHoverStop:false,
+ touch: {
+ touchenabled:true,
+ touchOnDesktop:true
+ },
+ arrows: {
+ enable:true,
+ tmp:"<div class=\"tp-title-wrap\"><div class=\"tp-arr-imgholder\"></div></div>",
+ style:"zeus",
+ hide_onmobile:true,
+ hide_under:778,
+ left: {
+ h_offset:30
+ },
+ right: {
+ h_offset:30
+ }
+ },
+ bullets: {
+ enable:true,
+ tmp:"",
+ style:"hesperiden",
+ h_offset:1
+ }
+ },
+ parallax: {
+ levels:[5,10,15,20,25,30,35,40,45,46,47,48,49,50,51,30],
+ type:"mouse",
+ speed:0
+ },
+ sbtimeline: {
+ set:true
+ },
+ fallbacks: {
+ allowHTML5AutoPlayOnAndroid:true
+ },
+ });
+ } 
+ });
+ } // End of RevInitScript
+ var once_revslider151 = false;
+ if (document.readyState === "loading") {document.addEventListener('readystatechange',function() { if((document.readyState === "interactive" || document.readyState === "complete") && !once_revslider151 ) { once_revslider151 = true; revinit_revslider151();}});} else {once_revslider151 = true; revinit_revslider151();} </script> <script> var htmlDivCss = unescape("%23rev_slider_15_1_wrapper%20.zeus.tparrows%20%7B%0A%20%20cursor%3Apointer%3B%0A%20%20min-width%3A70px%3B%0A%20%20min-height%3A70px%3B%0A%20%20position%3Aabsolute%3B%0A%20%20display%3Ablock%3B%0A%20%20z-index%3A1000%3B%0A%20%20border-radius%3A50%25%3B%20%20%20%0A%20%20overflow%3Ahidden%3B%0A%20%20background%3Argba%280%2C0%2C0%2C0.1%29%3B%0A%7D%0A%0A%23rev_slider_15_1_wrapper%20.zeus.tparrows%3Abefore%20%7B%0A%20%20font-family%3A%20%27revicons%27%3B%0A%20%20font-size%3A20px%3B%0A%20%20color%3A%23ffffff%3B%0A%20%20display%3Ablock%3B%0A%20%20line-height%3A%2070px%3B%0A%20%20text-align%3A%20center%3B%20%20%20%20%0A%20%20z-index%3A2%3B%0A%20%20position%3Arelative%3B%0A%7D%0A%23rev_slider_15_1_wrapper%20.zeus.tparrows.tp-leftarrow%3Abefore%20%7B%0A%20%20content%3A%20%27%5Ce824%27%3B%0A%7D%0A%23rev_slider_15_1_wrapper%20.zeus.tparrows.tp-rightarrow%3Abefore%20%7B%0A%20%20content%3A%20%27%5Ce825%27%3B%0A%7D%0A%0A%23rev_slider_15_1_wrapper%20.zeus%20.tp-title-wrap%20%7B%0A%20%20background%3Argba%280%2C0%2C0%2C0.5%29%3B%0A%20%20width%3A100%25%3B%0A%20%20height%3A100%25%3B%0A%20%20top%3A0px%3B%0A%20%20left%3A0px%3B%0A%20%20position%3Aabsolute%3B%0A%20%20opacity%3A0%3B%0A%20%20transform%3Ascale%280%29%3B%0A%20%20-webkit-transform%3Ascale%280%29%3B%0A%20%20%20transition%3A%20all%200.3s%3B%0A%20%20-webkit-transition%3Aall%200.3s%3B%0A%20%20-moz-transition%3Aall%200.3s%3B%0A%20%20%20border-radius%3A50%25%3B%0A%20%7D%0A%23rev_slider_15_1_wrapper%20.zeus%20.tp-arr-imgholder%20%7B%0A%20%20width%3A100%25%3B%0A%20%20height%3A100%25%3B%0A%20%20position%3Aabsolute%3B%0A%20%20top%3A0px%3B%0A%20%20left%3A0px%3B%0A%20%20background-position%3Acenter%20center%3B%0A%20%20background-size%3Acover%3B%0A%20%20border-radius%3A50%25%3B%0A%20%20transform%3Atranslatex%28-100%25%29%3B%0A%20%20-webkit-transform%3Atranslatex%28-100%25%29%3B%0A%20%20%20transition%3A%20all%200.3s%3B%0A%20%20-webkit-transition%3Aall%200.3s%3B%0A%20%20-moz-transition%3Aall%200.3s%3B%0A%0A%20%7D%0A%23rev_slider_15_1_wrapper%20.zeus.tp-rightarrow%20.tp-arr-imgholder%20%7B%0A%20%20%20%20transform%3Atranslatex%28100%25%29%3B%0A%20%20-webkit-transform%3Atranslatex%28100%25%29%3B%0A%20%20%20%20%20%20%7D%0A%23rev_slider_15_1_wrapper%20.zeus.tparrows%3Ahover%20.tp-arr-imgholder%20%7B%0A%20%20transform%3Atranslatex%280%29%3B%0A%20%20-webkit-transform%3Atranslatex%280%29%3B%0A%20%20opacity%3A1%3B%0A%7D%0A%20%20%20%20%20%20%0A%23rev_slider_15_1_wrapper%20.zeus.tparrows%3Ahover%20.tp-title-wrap%20%7B%0A%20%20transform%3Ascale%281%29%3B%0A%20%20-webkit-transform%3Ascale%281%29%3B%0A%20%20opacity%3A1%3B%0A%7D%0A%20%0A%23rev_slider_15_1_wrapper%20.hesperiden.tp-bullets%20%7B%0A%7D%0A%23rev_slider_15_1_wrapper%20.hesperiden.tp-bullets%3Abefore%20%7B%0A%09content%3A%27%20%27%3B%0A%09position%3Aabsolute%3B%0A%09width%3A100%25%3B%0A%09height%3A100%25%3B%0A%09background%3Atransparent%3B%0A%09padding%3A10px%3B%0A%09margin-left%3A-10px%3Bmargin-top%3A-10px%3B%0A%09box-sizing%3Acontent-box%3B%0A%20%20%20border-radius%3A8px%3B%0A%20%20%0A%7D%0A%23rev_slider_15_1_wrapper%20.hesperiden%20.tp-bullet%20%7B%0A%09width%3A12px%3B%0A%09height%3A12px%3B%0A%09position%3Aabsolute%3B%0A%09background%3A%20%23999999%3B%20%2F%2A%20old%20browsers%20%2A%2F%0A%20%20%20%20background%3A%20-moz-linear-gradient%28top%2C%20%20%23999999%200%25%2C%20%23e1e1e1%20100%25%29%3B%20%2F%2A%20ff3.6%2B%20%2A%2F%0A%20%20%20%20background%3A%20-webkit-linear-gradient%28top%2C%20%20%23999999%200%25%2C%23e1e1e1%20100%25%29%3B%20%2F%2A%20chrome10%2B%2Csafari5.1%2B%20%2A%2F%0A%20%20%20%20background%3A%20-o-linear-gradient%28top%2C%20%20%23999999%200%25%2C%23e1e1e1%20100%25%29%3B%20%2F%2A%20opera%2011.10%2B%20%2A%2F%0A%20%20%20%20background%3A%20-ms-linear-gradient%28top%2C%20%20%23999999%200%25%2C%23e1e1e1%20100%25%29%3B%20%2F%2A%20ie10%2B%20%2A%2F%0A%20%20%20%20background%3A%20linear-gradient%28to%20bottom%2C%20%20%23999999%200%25%2C%23e1e1e1%20100%25%29%3B%20%2F%2A%20w3c%20%2A%2F%0A%20%20%20%20filter%3A%20progid%3Adximagetransform.microsoft.gradient%28%20%0A%20%20%20%20startcolorstr%3D%27%23999999%27%2C%20endcolorstr%3D%27%23e1e1e1%27%2Cgradienttype%3D0%20%29%3B%20%2F%2A%20ie6-9%20%2A%2F%0A%09border%3A3px%20solid%20%23e5e5e5%3B%0A%09border-radius%3A50%25%3B%0A%09cursor%3A%20pointer%3B%0A%09box-sizing%3Acontent-box%3B%0A%7D%0A%23rev_slider_15_1_wrapper%20.hesperiden%20.tp-bullet%3Ahover%2C%0A%23rev_slider_15_1_wrapper%20.hesperiden%20.tp-bullet.selected%20%7B%0A%09background%3A%23666666%3B%0A%7D%0A%23rev_slider_15_1_wrapper%20.hesperiden%20.tp-bullet-image%20%7B%0A%7D%0A%23rev_slider_15_1_wrapper%20.hesperiden%20.tp-bullet-title%20%7B%0A%7D%0A%0A");
+ var htmlDiv = document.getElementById('rs-plugin-settings-inline-css');
+ if(htmlDiv) {
+ htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+ }else{
+ var htmlDiv = document.createElement('div');
+ htmlDiv.innerHTML = '<style>' + htmlDivCss + '</style>';
+ document.getElementsByTagName('head')[0].appendChild(htmlDiv.childNodes[0]);
+ } </script> <script> var htmlDivCss = unescape("%0A%0A%0A%0A%0A%0A%0A%0A");
+ var htmlDiv = document.getElementById('rs-plugin-settings-inline-css');
+ if(htmlDiv) {
+ htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
+ }else{
+ var htmlDiv = document.createElement('div');
+ htmlDiv.innerHTML = '<style>' + htmlDivCss + '</style>';
+ document.getElementsByTagName('head')[0].appendChild(htmlDiv.childNodes[0]);
+ } </script> </rs-module-wrap> <!-- END REVOLUTION SLIDER --> <!-- End Header Menu End --><div class="main-contain offcontents"><div class="container"><div id="content" class="site-content"><div class="row padding-"><div class="col-lg-12 "><article id="post-8504" class="post-8504 page type-page status-publish hentry"><div class="entry-content"><div data-elementor-type="wp-page" data-elementor-id="8504" class="elementor elementor-8504" data-elementor-settings="[]"><div class="elementor-inner"><div class="elementor-section-wrap"><section class="elementor-section elementor-top-section elementor-element elementor-element-ffd7337 elementor-section-full_width elementor-section-stretched elementor-section-height-default elementor-section-height-default" data-id="ffd7337" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;stretch_section&quot;:&quot;section-stretched&quot;}"><div class="elementor-container elementor-column-gap-default"><div class="elementor-row"><div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-a866a46" data-id="a866a46" data-element_type="column"><div class="elementor-column-wrap elementor-element-populated"><div class="elementor-widget-wrap"><section class="elementor-section elementor-inner-section elementor-element elementor-element-d772691 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d772691" data-element_type="section"><div class="elementor-container elementor-column-gap-default"><div class="elementor-row"><div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-e3ccce5" data-id="e3ccce5" data-element_type="column"><div class="elementor-column-wrap"><div class="elementor-widget-wrap"></div></div></div><div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-6f2193b" data-id="6f2193b" data-element_type="column"><div class="elementor-column-wrap elementor-element-populated"><div class="elementor-widget-wrap"><div class="elementor-element elementor-element-5f8a58c elementor-widget elementor-widget-rs-dual-heading" data-id="5f8a58c" data-element_type="widget" data-widget_type="rs-dual-heading.default"><div class="elementor-widget-container"><div class="rs-dual-heading default center"><div class="title-inner"><h2 class="title"><span class="first_title">Študijski programi<br></span></h2></div></div></div></div></div></div></div><div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-8563fd9" data-id="8563fd9" data-element_type="column"><div class="elementor-column-wrap"><div class="elementor-widget-wrap"></div></div></div></div></div></section><section class="elementor-section elementor-inner-section elementor-element elementor-element-4e315fd elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4e315fd" data-element_type="section"><div class="elementor-container elementor-column-gap-default"><div class="elementor-row"><div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-6c7d06a" data-id="6c7d06a" data-element_type="column"><div class="elementor-column-wrap elementor-element-populated"><div class="elementor-widget-wrap"><div class="elementor-element elementor-element-11b3080 studijski-programi elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="11b3080" data-element_type="widget" data-widget_type="image-box.default"><div class="elementor-widget-container"><div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="768" height="435" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://www.fis.unm.si/media/2020/11/09.jpg" class="attachment-full size-full lazyload" alt="" data-srcset="https://www.fis.unm.si/media/2020/11/09.jpg 768w, https://www.fis.unm.si/media/2020/11/09-600x340.jpg 600w, https://www.fis.unm.si/media/2020/11/09-300x170.jpg 300w, https://www.fis.unm.si/media/2020/11/09-732x415.jpg 732w" sizes="(max-width: 768px) 100vw, 768px" /><noscript><img width="768" height="435" src="https://www.fis.unm.si/media/2020/11/09.jpg" class="attachment-full size-full lazyload" alt="" srcset="https://www.fis.unm.si/media/2020/11/09.jpg 768w, https://www.fis.unm.si/media/2020/11/09-600x340.jpg 600w, https://www.fis.unm.si/media/2020/11/09-300x170.jpg 300w, https://www.fis.unm.si/media/2020/11/09-732x415.jpg 732w" sizes="(max-width: 768px) 100vw, 768px" /></noscript></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Dodiplomski</h3><p class="elementor-image-box-description"><a href="https://fis.unm.si/studijski-programi/racunalnistvo-in-spletne-tehnologije-vs/">Računalništvo in spletne tehnologije (VS)</a><br> <a href="https://fis.unm.si/studijski-programi/informatika-v-sodobni-druzbi-vs/">Informatika v sodobni družbi (VS)</a><br> <a href="https://fis.unm.si/studijski-programi/informatika-v-sodobni-druzbi-un/">Informatika v sodobni družbi (UN)</a></p></div></div></div></div></div></div></div><div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-324ef9a" data-id="324ef9a" data-element_type="column"><div class="elementor-column-wrap elementor-element-populated"><div class="elementor-widget-wrap"><div class="elementor-element elementor-element-1980a0a studijski-programi elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="1980a0a" data-element_type="widget" data-widget_type="image-box.default"><div class="elementor-widget-container"><div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="768" height="435" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://www.fis.unm.si/media/2020/11/02.jpg" class="attachment-full size-full lazyload" alt="" data-srcset="https://www.fis.unm.si/media/2020/11/02.jpg 768w, https://www.fis.unm.si/media/2020/11/02-600x340.jpg 600w, https://www.fis.unm.si/media/2020/11/02-300x170.jpg 300w, https://www.fis.unm.si/media/2020/11/02-732x415.jpg 732w" sizes="(max-width: 768px) 100vw, 768px" /><noscript><img width="768" height="435" src="https://www.fis.unm.si/media/2020/11/02.jpg" class="attachment-full size-full lazyload" alt="" srcset="https://www.fis.unm.si/media/2020/11/02.jpg 768w, https://www.fis.unm.si/media/2020/11/02-600x340.jpg 600w, https://www.fis.unm.si/media/2020/11/02-300x170.jpg 300w, https://www.fis.unm.si/media/2020/11/02-732x415.jpg 732w" sizes="(max-width: 768px) 100vw, 768px" /></noscript></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Magistrski</h3><p class="elementor-image-box-description"><a href="https://fis.unm.si/studijski-programi/racunalnistvo-in-spletne-tehnologije-mag/">Računalništvo in spletne tehnologije</a><br> <a href="https://fis.unm.si/studijski-programi/informatika-v-sodobni-druzbi-mag/">Informatika v sodobni družbi</a><br> <a href="https://fis.unm.si/studijski-programi/podatkovne-znanosti-mag/">Podatkovne znanosti</a></p></div></div></div></div></div></div></div><div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-22d811b" data-id="22d811b" data-element_type="column"><div class="elementor-column-wrap elementor-element-populated"><div class="elementor-widget-wrap"><div class="elementor-element elementor-element-3528a11 studijski-programi elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="3528a11" data-element_type="widget" data-widget_type="image-box.default"><div class="elementor-widget-container"><div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="768" height="435" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://www.fis.unm.si/media/2020/11/06.jpg" class="attachment-full size-full lazyload" alt="" data-srcset="https://www.fis.unm.si/media/2020/11/06.jpg 768w, https://www.fis.unm.si/media/2020/11/06-600x340.jpg 600w, https://www.fis.unm.si/media/2020/11/06-300x170.jpg 300w, https://www.fis.unm.si/media/2020/11/06-732x415.jpg 732w" sizes="(max-width: 768px) 100vw, 768px" /><noscript><img width="768" height="435" src="https://www.fis.unm.si/media/2020/11/06.jpg" class="attachment-full size-full lazyload" alt="" srcset="https://www.fis.unm.si/media/2020/11/06.jpg 768w, https://www.fis.unm.si/media/2020/11/06-600x340.jpg 600w, https://www.fis.unm.si/media/2020/11/06-300x170.jpg 300w, https://www.fis.unm.si/media/2020/11/06-732x415.jpg 732w" sizes="(max-width: 768px) 100vw, 768px" /></noscript></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Doktorski</h3><p class="elementor-image-box-description"><a href="https://fis.unm.si/studijski-programi/informacijska-druzba-dr/">Informacijska družba</a> <br> <br> <br></p></div></div></div></div></div></div></div></div></div></section></div></div></div></div></div></section><section class="elementor-section elementor-top-section elementor-element elementor-element-f88efef elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f88efef" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}"><div class="elementor-background-overlay"></div><div class="elementor-container elementor-column-gap-default"><div class="elementor-row"><div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7b8fa8c" data-id="7b8fa8c" data-element_type="column"><div class="elementor-column-wrap elementor-element-populated"><div class="elementor-widget-wrap"><section class="elementor-section elementor-inner-section elementor-element elementor-element-fa8922f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="fa8922f" data-element_type="section"><div class="elementor-container elementor-column-gap-default"><div class="elementor-row"><div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-489d622" data-id="489d622" data-element_type="column"><div class="elementor-column-wrap"><div class="elementor-widget-wrap"></div></div></div><div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-d39162c" data-id="d39162c" data-element_type="column"><div class="elementor-column-wrap elementor-element-populated"><div class="elementor-widget-wrap"><div class="elementor-element elementor-element-113974d elementor-widget elementor-widget-rs-dual-heading" data-id="113974d" data-element_type="widget" data-widget_type="rs-dual-heading.default"><div class="elementor-widget-container"><div class="rs-dual-heading default center"><div class="title-inner"><h2 class="title"><span class="first_title">Mnenja študentov in diplomantov</span></h2></div></div></div></div></div></div></div><div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-9b30568" data-id="9b30568" data-element_type="column"><div class="elementor-column-wrap"><div class="elementor-widget-wrap"></div></div></div></div></div></section><section class="elementor-section elementor-inner-section elementor-element elementor-element-f6e9167 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f6e9167" data-element_type="section"><div class="elementor-container elementor-column-gap-default"><div class="elementor-row"><div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-b037491" data-id="b037491" data-element_type="column"><div class="elementor-column-wrap"><div class="elementor-widget-wrap"></div></div></div></div></div></section><div class="elementor-element elementor-element-ca936fb rs-testimonial--center elementor-widget elementor-widget-rs-testimonial-slider" data-id="ca936fb" data-element_type="widget" data-widget_type="rs-testimonial-slider.default"><div class="elementor-widget-container"><div class="rsaddon-unique-slider rs-testimonial-grid rs-testimonial rs-testimonial-default"><div id="rsaddon-slick-slider-35032" class="rs-addon-slider" ><div class="testimonial-item center"><div class="item-content basic"><p>&#8220;Odločitev za FIŠ je bila pravilna.&#8221;</p></div><div class="testimonial-content"><div class="testimonial-information"><div class="testimonial-name">Helena Čebulin, magistrski študijski program Informatika v sodobni družbi</div></div></div></div><div class="testimonial-item center"><div class="item-content basic"><p>&#8220;Odnosi s profesorji in asistenti so odlični.&#8221;</p></div><div class="testimonial-content"><div class="testimonial-information"><div class="testimonial-name">Rok Kopina, univerzitetni študijski program Informatika v sodobni družbi</div></div></div></div><div class="testimonial-item center"><div class="item-content basic"><p>&#8220;S sošolci si pomagamo pri študijskih obveznostih.&#8221;</p></div><div class="testimonial-content"><div class="testimonial-information"><div class="testimonial-name">Marija Plesničar, visokošolski strokovni študijski program Informatika v sodobni družbi</div></div></div></div><div class="testimonial-item center"><div class="item-content basic"><p>&#8220;Z novim znanjem bom ustvarjal sodobno IT stroko.&#8221;</p></div><div class="testimonial-content"><div class="testimonial-information"><div class="testimonial-name">Jože Bučar, doktorski študijski program Informacijska družba</div></div></div></div><div class="testimonial-item center"><div class="item-content basic"><p>&#8220;Pridobljeno znanje bom uporabil v službi.&#8221;</p></div><div class="testimonial-content"><div class="testimonial-information"><div class="testimonial-name">Egon Prijon, diplomant FIŠ</div></div></div></div></div><div class="rsaddon-slider-conf wpsisac-hide" data-conf="{&quot;slidesToShow&quot;:&quot;3&quot;,&quot;autoplaySpeed&quot;:3000,&quot;interval&quot;:3000,&quot;slidesToScroll&quot;:&quot;1&quot;,&quot;slider_autoplay&quot;:&quot;true&quot;,&quot;pauseOnHover&quot;:&quot;false&quot;,&quot;sliderDots&quot;:&quot;false&quot;,&quot;sliderNav&quot;:&quot;false&quot;,&quot;infinite&quot;:&quot;true&quot;,&quot;centerMode&quot;:&quot;false&quot;,&quot;col_lg&quot;:&quot;3&quot;,&quot;col_md&quot;:&quot;3&quot;,&quot;col_sm&quot;:2,&quot;col_xs&quot;:1}"></div></div> <script type="text/javascript"> jQuery(document).ready(function(){
+ jQuery( '.rs-addon-slider' ).each(function( index ) { 
+ var slider_id       = jQuery(this).attr('id'); 
+ var slider_conf     = jQuery.parseJSON( jQuery(this).closest('.rsaddon-unique-slider').find('.rsaddon-slider-conf').attr('data-conf')); 
+ if( typeof(slider_id) != 'undefined' && slider_id != '' ) {
+ jQuery('#'+slider_id).not('.slick-initialized').slick({
+ slidesToShow    : parseInt(slider_conf.col_lg),
+ centerMode      : (slider_conf.centerMode)  == "true" ? true : false,
+ dots            : (slider_conf.sliderDots)  == "true" ? true : false,
+ arrows          : (slider_conf.sliderNav) == "true" ? true : false,
+ autoplay        : (slider_conf.slider_autoplay) == "true" ? true : false,
+ slidesToScroll  : parseInt(slider_conf.slidesToScroll),
+ centerPadding   : '15px',
+ autoplaySpeed   : parseInt(slider_conf.autoplaySpeed),
+ pauseOnHover    : (slider_conf.pauseOnHover) == "true" ? true : false,
+ loop : false,  responsive: [{
+ breakpoint: 1200,
+ settings: {
+ slidesToShow: parseInt(slider_conf.col_md),
+ arrows          : (slider_conf.sliderNav) == "true" ? true : false,
+ }
+ }, 
+ {
+ breakpoint: 992,
+ settings: {
+ slidesToShow: parseInt(slider_conf.col_sm),
+ arrows          : (slider_conf.sliderNav) == "true" ? true : false,
+ }
+ }, 
+ {
+ breakpoint: 768,
+ settings: {
+ arrows          : (slider_conf.sliderNav) == "true" ? true : false,
+ slidesToShow: parseInt(slider_conf.col_xs),
+ }
+ }, ]
+ });
+ } 
+ });
+ }); </script></div></div></div></div></div></div></div></section><section class="elementor-section elementor-top-section elementor-element elementor-element-926d708 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="926d708" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}"><div class="elementor-container elementor-column-gap-default"><div class="elementor-row"><div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-aaa3617" data-id="aaa3617" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}"><div class="elementor-column-wrap elementor-element-populated"><div class="elementor-widget-wrap"><section class="elementor-section elementor-inner-section elementor-element elementor-element-2bd8b88 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2bd8b88" data-element_type="section"><div class="elementor-container elementor-column-gap-default"><div class="elementor-row"><div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-094d7d9" data-id="094d7d9" data-element_type="column"><div class="elementor-column-wrap"><div class="elementor-widget-wrap"></div></div></div><div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-a70e6b8" data-id="a70e6b8" data-element_type="column"><div class="elementor-column-wrap elementor-element-populated"><div class="elementor-widget-wrap"><div class="elementor-element elementor-element-f295af3 elementor-widget elementor-widget-rs-dual-heading" data-id="f295af3" data-element_type="widget" data-widget_type="rs-dual-heading.default"><div class="elementor-widget-container"><div class="rs-dual-heading default center"><div class="title-inner"> <span class="sub-text ">Aktualno</span><h2 class="title"><span class="first_title">Zadnje novice</span></h2></div></div></div></div></div></div></div><div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-ffa9bf3" data-id="ffa9bf3" data-element_type="column"><div class="elementor-column-wrap"><div class="elementor-widget-wrap"></div></div></div></div></div></section><div class="elementor-element elementor-element-7320380 elementor-widget elementor-widget-rsblog-slider" data-id="7320380" data-element_type="widget" data-widget_type="rsblog-slider.default"><div class="elementor-widget-container"><div class="rsaddon-unique-slider rs-blog-grid rs-blog-slider blog-grid "><div id="rsaddon-slick-slider-23943" class="rs-addon-slider" ><div class="blog-item default blog_meta_style1"><div class="blog-inner-wrap"><div class="image-wrap"> <a class="pointer-events" href="https://www.fis.unm.si/online-informativni-dan-11-6-2021/"> </a></div><div class="blog-content"><div class="blog-meta"> <span class="date"><i class="fa fa-calendar-check-o"></i> 31 maja, 2021</span></div><h3 class="blog-name"> <a class="pointer-events" href="https://www.fis.unm.si/online-informativni-dan-11-6-2021/">Online informativni dan in Dan odprtih vrat &#8211; 11. 6. 2021 </a></h3><div class="btn-btm"><div class="rs-view-btn"> <a class="rs-btns" href="https://www.fis.unm.si/online-informativni-dan-11-6-2021/"> Preberi več </a></div></div></div></div></div><div class="blog-item default blog_meta_style1"><div class="blog-inner-wrap"><div class="image-wrap"> <a class="pointer-events" href="https://www.fis.unm.si/obvestilo-o-zagovoru-diplomske-naloge-9/"> </a></div><div class="blog-content"><div class="blog-meta"> <span class="date"><i class="fa fa-calendar-check-o"></i> 25 maja, 2021</span></div><h3 class="blog-name"> <a class="pointer-events" href="https://www.fis.unm.si/obvestilo-o-zagovoru-diplomske-naloge-9/">Obvestilo o zagovoru diplomskih nalog </a></h3><div class="btn-btm"><div class="rs-view-btn"> <a class="rs-btns" href="https://www.fis.unm.si/obvestilo-o-zagovoru-diplomske-naloge-9/"> Preberi več </a></div></div></div></div></div><div class="blog-item default blog_meta_style1"><div class="blog-inner-wrap"><div class="image-wrap"> <a class="pointer-events" href="https://www.fis.unm.si/mala-sola-intelektualne-lastnine-in-projektnega-dela/"> </a></div><div class="blog-content"><div class="blog-meta"> <span class="date"><i class="fa fa-calendar-check-o"></i> 21 maja, 2021</span></div><h3 class="blog-name"> <a class="pointer-events" href="https://www.fis.unm.si/mala-sola-intelektualne-lastnine-in-projektnega-dela/">Mala šola intelektualne lastnine in projektnega dela </a></h3><div class="btn-btm"><div class="rs-view-btn"> <a class="rs-btns" href="https://www.fis.unm.si/mala-sola-intelektualne-lastnine-in-projektnega-dela/"> Preberi več </a></div></div></div></div></div></div><div class="rsaddon-slider-conf wpsisac-hide" data-conf="{&quot;slidesToShow&quot;:&quot;3&quot;,&quot;autoplaySpeed&quot;:3000,&quot;interval&quot;:3000,&quot;slidesToScroll&quot;:&quot;1&quot;,&quot;slider_autoplay&quot;:&quot;false&quot;,&quot;pauseOnHover&quot;:&quot;false&quot;,&quot;sliderDots&quot;:&quot;false&quot;,&quot;sliderNav&quot;:&quot;false&quot;,&quot;infinite&quot;:&quot;false&quot;,&quot;centerMode&quot;:&quot;false&quot;,&quot;col_lg&quot;:&quot;3&quot;,&quot;col_md&quot;:&quot;3&quot;,&quot;col_sm&quot;:2,&quot;col_xs&quot;:1}"></div></div> <script type="text/javascript"> jQuery(document).ready(function(){
+ jQuery( '.rs-addon-slider' ).each(function( index ) { 
+ var slider_id       = jQuery(this).attr('id'); 
+ var slider_conf     = jQuery.parseJSON( jQuery(this).closest('.rsaddon-unique-slider').find('.rsaddon-slider-conf').attr('data-conf')); 
+ if( typeof(slider_id) != 'undefined' && slider_id != '' ) {
+ jQuery('#'+slider_id).not('.slick-initialized').slick({
+ slidesToShow    : parseInt(slider_conf.col_lg),
+ centerMode      : (slider_conf.centerMode)  == "true" ? true : false,
+ dots            : (slider_conf.sliderDots)  == "true" ? true : false,
+ arrows          : (slider_conf.sliderNav) == "true" ? true : false,
+ autoplay        : (slider_conf.slider_autoplay) == "true" ? true : false,
+ slidesToScroll  : parseInt(slider_conf.slidesToScroll),
+ centerPadding   : '15px',
+ autoplaySpeed   : parseInt(slider_conf.autoplaySpeed),
+ pauseOnHover    : (slider_conf.pauseOnHover) == "true" ? true : false,
+ loop : false,
+ responsive: [{
+ breakpoint: 1200,
+ settings: {
+ slidesToShow: parseInt(slider_conf.col_md),
+ }
+ }, 
+ {
+ breakpoint: 992,
+ settings: {
+ slidesToShow: parseInt(slider_conf.col_sm),
+ }
+ }, 
+ {
+ breakpoint: 768,
+ settings: {
+ arrows: false,
+ slidesToShow: parseInt(slider_conf.col_xs),
+ }
+ }, ]
+ });
+ } 
+ });
+ }); </script></div></div></div></div></div></div></div></section><section class="elementor-section elementor-top-section elementor-element elementor-element-0b7667d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="0b7667d" data-element_type="section"><div class="elementor-container elementor-column-gap-default"><div class="elementor-row"><div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-fec94cd" data-id="fec94cd" data-element_type="column"><div class="elementor-column-wrap elementor-element-populated"><div class="elementor-widget-wrap"><div class="elementor-element elementor-element-8689f0a elementor-button-success elementor-align-center elementor-widget elementor-widget-button" data-id="8689f0a" data-element_type="widget" data-widget_type="button.default"><div class="elementor-widget-container"><div class="elementor-button-wrapper"> <a href="https://fis.unm.si/novice/" class="elementor-button-link elementor-button elementor-size-md" role="button"> <span class="elementor-button-content-wrapper"> <span class="elementor-button-text">Vse novice</span> </span> </a></div></div></div></div></div></div></div></div></section><section class="elementor-section elementor-top-section elementor-element elementor-element-6d467a6 elementor-section-full_width elementor-section-stretched elementor-section-height-default elementor-section-height-default" data-id="6d467a6" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;stretch_section&quot;:&quot;section-stretched&quot;}"><div class="elementor-container elementor-column-gap-default"><div class="elementor-row"><div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1de3490" data-id="1de3490" data-element_type="column"><div class="elementor-column-wrap elementor-element-populated"><div class="elementor-widget-wrap"><section class="elementor-section elementor-inner-section elementor-element elementor-element-c45a656 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="c45a656" data-element_type="section"><div class="elementor-container elementor-column-gap-default"><div class="elementor-row"><div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-cc06fa2" data-id="cc06fa2" data-element_type="column"><div class="elementor-column-wrap"><div class="elementor-widget-wrap"></div></div></div><div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-8529471" data-id="8529471" data-element_type="column"><div class="elementor-column-wrap elementor-element-populated"><div class="elementor-widget-wrap"><div class="elementor-element elementor-element-6d37364 elementor-widget elementor-widget-rs-dual-heading" data-id="6d37364" data-element_type="widget" data-widget_type="rs-dual-heading.default"><div class="elementor-widget-container"><div class="rs-dual-heading default center"><div class="title-inner"><h2 class="title"><span class="first_title">Projekti in programi</span></h2></div></div></div></div></div></div></div><div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-386441a" data-id="386441a" data-element_type="column"><div class="elementor-column-wrap"><div class="elementor-widget-wrap"></div></div></div></div></div></section><section class="elementor-section elementor-inner-section elementor-element elementor-element-92082d8 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="92082d8" data-element_type="section"><div class="elementor-container elementor-column-gap-default"><div class="elementor-row"><div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-64a4479" data-id="64a4479" data-element_type="column"><div class="elementor-column-wrap elementor-element-populated"><div class="elementor-widget-wrap"><div class="elementor-element elementor-element-91c6c0c studijski-programi elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="91c6c0c" data-element_type="widget" data-widget_type="image-box.default"><div class="elementor-widget-container"><div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><a href="https://fis.unm.si/projekti-razvoja-aplikacij-nasih-studentov/"><img width="1240" height="699" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://www.fis.unm.si/media/2020/09/blog-02.jpg" class="attachment-full size-full lazyload" alt="" data-srcset="https://www.fis.unm.si/media/2020/09/blog-02.jpg 1240w, https://www.fis.unm.si/media/2020/09/blog-02-600x338.jpg 600w, https://www.fis.unm.si/media/2020/09/blog-02-300x169.jpg 300w, https://www.fis.unm.si/media/2020/09/blog-02-1024x577.jpg 1024w, https://www.fis.unm.si/media/2020/09/blog-02-768x433.jpg 768w" sizes="(max-width: 1240px) 100vw, 1240px" /><noscript><img width="1240" height="699" src="https://www.fis.unm.si/media/2020/09/blog-02.jpg" class="attachment-full size-full lazyload" alt="" srcset="https://www.fis.unm.si/media/2020/09/blog-02.jpg 1240w, https://www.fis.unm.si/media/2020/09/blog-02-600x338.jpg 600w, https://www.fis.unm.si/media/2020/09/blog-02-300x169.jpg 300w, https://www.fis.unm.si/media/2020/09/blog-02-1024x577.jpg 1024w, https://www.fis.unm.si/media/2020/09/blog-02-768x433.jpg 768w" sizes="(max-width: 1240px) 100vw, 1240px" /></noscript></a></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title"><a href="https://fis.unm.si/projekti-razvoja-aplikacij-nasih-studentov/">Študentski projekti </a></h3></div></div></div></div></div></div></div><div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-4a243b7" data-id="4a243b7" data-element_type="column"><div class="elementor-column-wrap elementor-element-populated"><div class="elementor-widget-wrap"><div class="elementor-element elementor-element-a38c92f studijski-programi elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="a38c92f" data-element_type="widget" data-widget_type="image-box.default"><div class="elementor-widget-container"><div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><a href="https://fis.unm.si/pedagoski-projekti/pedagoski-projekti-tekoci/"><img width="1240" height="699" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://www.fis.unm.si/media/2020/09/blog1.jpg" class="attachment-full size-full lazyload" alt="" data-srcset="https://www.fis.unm.si/media/2020/09/blog1.jpg 1240w, https://www.fis.unm.si/media/2020/09/blog1-600x338.jpg 600w, https://www.fis.unm.si/media/2020/09/blog1-300x169.jpg 300w, https://www.fis.unm.si/media/2020/09/blog1-1024x577.jpg 1024w, https://www.fis.unm.si/media/2020/09/blog1-768x433.jpg 768w" sizes="(max-width: 1240px) 100vw, 1240px" /><noscript><img width="1240" height="699" src="https://www.fis.unm.si/media/2020/09/blog1.jpg" class="attachment-full size-full lazyload" alt="" srcset="https://www.fis.unm.si/media/2020/09/blog1.jpg 1240w, https://www.fis.unm.si/media/2020/09/blog1-600x338.jpg 600w, https://www.fis.unm.si/media/2020/09/blog1-300x169.jpg 300w, https://www.fis.unm.si/media/2020/09/blog1-1024x577.jpg 1024w, https://www.fis.unm.si/media/2020/09/blog1-768x433.jpg 768w" sizes="(max-width: 1240px) 100vw, 1240px" /></noscript></a></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title"><a href="https://fis.unm.si/pedagoski-projekti/pedagoski-projekti-tekoci/">Pedagoški projekti</a></h3></div></div></div></div></div></div></div><div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-2988d18" data-id="2988d18" data-element_type="column"><div class="elementor-column-wrap elementor-element-populated"><div class="elementor-widget-wrap"><div class="elementor-element elementor-element-99308a2 studijski-programi elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="99308a2" data-element_type="widget" data-widget_type="image-box.default"><div class="elementor-widget-container"><div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><a href="https://fis.unm.si/znanstveno-raziskovalni-projekti/znanstveno-raziskovalni-projekti-tekoci/"><img width="1240" height="699" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://www.fis.unm.si/media/2020/08/blog-03.jpg" class="attachment-full size-full lazyload" alt="" data-srcset="https://www.fis.unm.si/media/2020/08/blog-03.jpg 1240w, https://www.fis.unm.si/media/2020/08/blog-03-600x338.jpg 600w, https://www.fis.unm.si/media/2020/08/blog-03-300x169.jpg 300w, https://www.fis.unm.si/media/2020/08/blog-03-1024x577.jpg 1024w, https://www.fis.unm.si/media/2020/08/blog-03-768x433.jpg 768w" sizes="(max-width: 1240px) 100vw, 1240px" /><noscript><img width="1240" height="699" src="https://www.fis.unm.si/media/2020/08/blog-03.jpg" class="attachment-full size-full lazyload" alt="" srcset="https://www.fis.unm.si/media/2020/08/blog-03.jpg 1240w, https://www.fis.unm.si/media/2020/08/blog-03-600x338.jpg 600w, https://www.fis.unm.si/media/2020/08/blog-03-300x169.jpg 300w, https://www.fis.unm.si/media/2020/08/blog-03-1024x577.jpg 1024w, https://www.fis.unm.si/media/2020/08/blog-03-768x433.jpg 768w" sizes="(max-width: 1240px) 100vw, 1240px" /></noscript></a></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title"><a href="https://fis.unm.si/znanstveno-raziskovalni-projekti/znanstveno-raziskovalni-projekti-tekoci/">Znanstveno - raziskovalni projekti</a></h3></div></div></div></div></div></div></div></div></div></section></div></div></div></div></div></section></div></div></div></div> <!-- .entry-content --></article> <!-- #post-8504 --></div></div></div></div></div><!-- .main-container --><footer id="rs-footer" class=" rs-footer footer-style-1 " style="background: #f8f8f8 !important;   "><div class="footer-top"><div class="container"><div class="row"><div class="col-lg-4 footer-1"><section id="contact_widget-1" class="widget widget_contact_widget"><h3 class="footer-title">Kontakt</h3> <!-- Contact Info Widget --><ul class="fa-ul"><li class="address1"><i class="glyph-icon flaticon-location"></i> <span>Ljubljanska cesta 31a, p.p. 603 8000 Novo mesto</span></li><li><i class="glyph-icon flaticon-call" ></i><a href="tel:073737884">07 3737 884</a></li><li><i class="glyph-icon flaticon-email"></i> <a href="mailto:info@fis.unm.si">info@fis.unm.si</a></li></ul></section></div><div class="col-lg-4 footer-2"><section id="nav_menu-1" class="widget widget_nav_menu"><h3 class="footer-title">Hitre povezave</h3><div class="menu-footer-hitre-povezave-container"><ul id="menu-footer-hitre-povezave" class="menu"><li id="menu-item-11345" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11345"><a href="https://moodle.fis.unm.si/login/index.php">Moodle</a></li><li id="menu-item-11346" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11346"><a href="https://vis.fis.unm.si/">Spletni referat</a></li><li id="menu-item-11347" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11347"><a href="https://wise-tt.com/wtt_nm_fis/">Urnik</a></li><li id="menu-item-11348" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11348"><a href="https://www.fis.unm.si/strokovni-sodelavci/">Kontakti</a></li></ul></div></section></div><div class="col-lg-4 footer-3"><div class="recent-widget main-sidebar widget"><h3 class="footer-title">Zadnji prispevki</h3><div class="recent-post-widget clearfix"><div class="post-item"><div class="post-date"> <i class="fa fa-calendar-check-o"></i> 31 maja, 2021</div><div class="post-desc"><h3 class="post-title"> <a href="https://www.fis.unm.si/zaposlitveni-oglasi-31-5-2021/"> Zaposlitveni oglasi, 31. 5. 2021 </a></h3></div></div><div class="post-item"><div class="post-date"> <i class="fa fa-calendar-check-o"></i> 31 maja, 2021</div><div class="post-desc"><h3 class="post-title"> <a href="https://www.fis.unm.si/online-informativni-dan-11-6-2021/"> Online informativni dan in Dan odprtih vrat &#8211; 11. 6. 2021 </a></h3></div></div><div class="post-item"><div class="post-date"> <i class="fa fa-calendar-check-o"></i> 28 maja, 2021</div><div class="post-desc"><h3 class="post-title"> <a href="https://www.fis.unm.si/s-pripojitvijo-fakultet-k-fis-korak-blizje-k-ustanovitvi-novomeske-javne-univerze/"> S pripojitvijo fakultet k FIŠ korak bližje k ustanovitvi novomeške javne univerze </a></h3></div></div></div></div></div></div></div></div><div class="footer-bottom" ><div class="container"><div class="copyright_border"><div class="rows"><div class="cols frist-cols"><div class="copyright text-center"  style="padding: 0px"  ><p>&copy; 2021 Fakulteta za informacijske študije v Novem mestu | Izvedba: <a href="https://www.1ainternet.net/">1A Internet d.o.o.</a></p></div></div><div class="cols"><div class="copyright-widget"  style="padding: 0px"  ><section id="medvillsocialiconwi_widget-2" class="widget widget_medvillsocialiconwi_widget"><ul class="footer_social"><li> <a href="https://www.facebook.com/FakultetaFIS" target="_blank"><span><i class="fa fa-facebook"></i></span></a></li><li> <a href="https://twitter.com/fisnm " target="_blank"><span><i class="fa fa-twitter"></i></span></a></li><li> <a href="https://www.linkedin.com/company/faculty-of-information-studies/ " target="_blank"><span><i class="fa fa-linkedin"></i></span></a></li><li> <a href="https://www.instagram.com/fis.nm/ " target="_blank"><span><i class="fa fa-instagram"></i></span></a></li><li> <a href="https://www.youtube.com/channel/UCyju-1lpv7TOGy0UTNk5q3Q " target="_blank"><span><i class="fa fa-youtube"></i></span></a></li></ul></section></div></div></div></div></div></div></footer></div><!-- #page --> <!-- start scrollUp  --><div id="scrollUp"> <i class="fa fa-angle-up"></i></div><link href="https://fonts.googleapis.com/css?family=Nunito:700%7CRoboto:400" rel="stylesheet" property="stylesheet" media="all" type="text/css" > <script type="text/javascript"> if(typeof revslider_showDoubleJqueryError === "undefined") {
+ function revslider_showDoubleJqueryError(sliderID) {
+ var err = "<div class='rs_error_message_box'>";
+ err += "<div class='rs_error_message_oops'>Oops...</div>";
+ err += "<div class='rs_error_message_content'>";
+ err += "You have some jquery.js library include that comes after the Slider Revolution files js inclusion.<br>";
+ err += "To fix this, you can:<br>&nbsp;&nbsp;&nbsp; 1. Set 'Module General Options' -> 'Advanced' -> 'jQuery & OutPut Filters' -> 'Put JS to Body' to on";
+ err += "<br>&nbsp;&nbsp;&nbsp; 2. Find the double jQuery.js inclusion and remove it";
+ err += "</div>";
+ err += "</div>";
+ var slider = document.getElementById(sliderID); slider.innerHTML = err; slider.style.display = "block";
+ }
+ } </script><div class="wpml-ls-statics-footer wpml-ls wpml-ls-touch-device wpml-ls-legacy-list-horizontal"><ul><li class="wpml-ls-slot-footer wpml-ls-item wpml-ls-item-sl wpml-ls-current-language wpml-ls-first-item wpml-ls-item-legacy-list-horizontal"> <a href="https://www.fis.unm.si" class="wpml-ls-link"> <img
+ class="wpml-ls-flag"
+ src="https://www.fis.unm.si/wp-content/plugins/sitepress-multilingual-cms/res/flags/sl.png"
+ alt=""
+ width=18
+ height=12
+ /><span class="wpml-ls-native">Slovenščina</span></a></li><li class="wpml-ls-slot-footer wpml-ls-item wpml-ls-item-en wpml-ls-last-item wpml-ls-item-legacy-list-horizontal"> <a href="https://www.fis.unm.si/?lang=en" class="wpml-ls-link"> <img
+ class="wpml-ls-flag"
+ src="https://www.fis.unm.si/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.png"
+ alt=""
+ width=18
+ height=12
+ /><span class="wpml-ls-native" lang="en">English</span></a></li></ul></div> <script type='text/javascript' src='https://www.fis.unm.si/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=7.4.4' id='wp-polyfill-js'></script> <script type='text/javascript' id='wp-polyfill-js-after'> ( 'fetch' in window ) || document.write( '<script src="https://www.fis.unm.si/wp-includes/js/dist/vendor/wp-polyfill-fetch.min.js?ver=3.0.0"></scr' + 'ipt>' );( document.contains ) || document.write( '<script src="https://www.fis.unm.si/wp-includes/js/dist/vendor/wp-polyfill-node-contains.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.DOMRect ) || document.write( '<script src="https://www.fis.unm.si/wp-includes/js/dist/vendor/wp-polyfill-dom-rect.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.URL && window.URL.prototype && window.URLSearchParams ) || document.write( '<script src="https://www.fis.unm.si/wp-includes/js/dist/vendor/wp-polyfill-url.min.js?ver=3.6.4"></scr' + 'ipt>' );( window.FormData && window.FormData.prototype.keys ) || document.write( '<script src="https://www.fis.unm.si/wp-includes/js/dist/vendor/wp-polyfill-formdata.min.js?ver=3.0.12"></scr' + 'ipt>' );( Element.prototype.matches && Element.prototype.closest ) || document.write( '<script src="https://www.fis.unm.si/wp-includes/js/dist/vendor/wp-polyfill-element-closest.min.js?ver=2.0.2"></scr' + 'ipt>' );( 'objectFit' in document.documentElement.style ) || document.write( '<script src="https://www.fis.unm.si/wp-includes/js/dist/vendor/wp-polyfill-object-fit.min.js?ver=2.3.4"></scr' + 'ipt>' ); </script> <script type='text/javascript' id='contact-form-7-js-extra'> /* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/www.fis.unm.si\/wp-json\/","namespace":"contact-form-7\/v1"}};
+/* ]]> */ </script> <script defer type='text/javascript' src='https://www.fis.unm.si/media/siteground-optimizer-assets/contact-form-7.min.js?ver=5.4.1' id='contact-form-7-js'></script> <script defer type='text/javascript' src='https://www.fis.unm.si/wp-content/plugins/sg-cachepress/assets/js/lazysizes.min.js?ver=5.7.20' id='siteground-optimizer-lazy-sizes-js-js'></script> <script defer type='text/javascript' src='https://www.fis.unm.si/media/siteground-optimizer-assets/instagram.min.js?ver=201513434' id='instagram-js'></script> <script defer type='text/javascript' src='https://www.fis.unm.si/wp-content/plugins/rselements/assets/js/jquery.magnific-popup.min.js?ver=201513434' id='magnific-popup-js'></script> <script defer type='text/javascript' src='https://www.fis.unm.si/wp-content/plugins/rselements/assets/js/popper.min.js?ver=201513434' id='popper-js'></script> <script defer type='text/javascript' src='https://www.fis.unm.si/wp-content/plugins/rselements/assets/js/bootstrap.min.js?ver=201513434' id='bootstrap-js'></script> <script defer type='text/javascript' src='https://www.fis.unm.si/wp-content/plugins/rselements/assets/js/datatables.min.js?ver=201513434' id='datatables-js'></script> <script defer type='text/javascript' src='https://www.fis.unm.si/wp-content/plugins/rselements/assets/js/waypoints.min.js?ver=201513434' id='waypoints-js'></script> <script defer type='text/javascript' src='https://www.fis.unm.si/wp-content/plugins/rselements/assets/js/jquery.counterup.min.js?ver=201513434' id='jquery-counterup-js'></script> <script defer type='text/javascript' src='https://www.fis.unm.si/media/siteground-optimizer-assets/time-circle.min.js?ver=201513434' id='time-circle-js'></script> <script defer type='text/javascript' src='https://www.fis.unm.si/media/siteground-optimizer-assets/headding-title.min.js?ver=201513434' id='headding-title-js'></script> <script defer type='text/javascript' src='https://www.fis.unm.si/wp-content/plugins/rselements/assets/js/slick.min.js?ver=201513434' id='slick-js'></script> <script defer type='text/javascript' src='https://www.fis.unm.si/media/siteground-optimizer-assets/jquery-plugin-progressbar.min.js?ver=201513434' id='jquery-plugin-progressbar-js'></script> <script defer type='text/javascript' src='https://www.fis.unm.si/wp-content/plugins/rselements/assets/js/tilt.jquery.min.js?ver=201513434' id='js-tilt-view-js'></script> <script defer type='text/javascript' src='https://www.fis.unm.si/media/siteground-optimizer-assets/ddbeforeandafter.min.js?ver=201513434' id='ddbeforeandafter-js'></script> <script defer type='text/javascript' src='https://www.fis.unm.si/wp-includes/js/imagesloaded.min.js?ver=4.1.4' id='imagesloaded-js'></script> <script defer type='text/javascript' src='https://www.fis.unm.si/media/siteground-optimizer-assets/rsaddons-custom-pro.min.js?ver=201513434' id='rsaddons-custom-pro-js'></script> <script defer type='text/javascript' src='https://www.fis.unm.si/wp-content/themes/educavo/assets/js/modernizr-2.8.3.min.js?ver=20151215' id='modernizr-js'></script> <script defer type='text/javascript' src='https://www.fis.unm.si/wp-content/themes/educavo/assets/js/owl.carousel.min.js?ver=20151215' id='owl-carousel-js'></script> <script defer type='text/javascript' src='https://www.fis.unm.si/wp-content/themes/educavo/assets/js/waypoints-sticky.min.js?ver=20151215' id='waypoints-sticky-js'></script> <script defer type='text/javascript' src='https://www.fis.unm.si/wp-content/themes/educavo/assets/js/jquery.magnific-popup.min.js?ver=20151215' id='jquery-magnific-popup-js'></script> <script defer type='text/javascript' src='https://www.fis.unm.si/media/siteground-optimizer-assets/educavo-classie.min.js?ver=201513434' id='educavo-classie-js'></script> <script defer type='text/javascript' src='https://www.fis.unm.si/media/siteground-optimizer-assets/theia-sticky-sidebar.min.js?ver=20151215' id='theia-sticky-sidebar-js'></script> <script defer type='text/javascript' src='https://www.fis.unm.si/media/siteground-optimizer-assets/educavo-mobilemenu.min.js?ver=201513434' id='educavo-mobilemenu-js'></script> <script defer type='text/javascript' src='https://www.fis.unm.si/media/siteground-optimizer-assets/educavo-main.min.js?ver=201513434' id='educavo-main-js'></script> <script type='text/javascript' src='https://www.fis.unm.si/wp-includes/js/wp-embed.min.js?ver=5.7.2' id='wp-embed-js'></script> <script type='text/javascript' src='https://www.fis.unm.si/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.2.1' id='elementor-pro-webpack-runtime-js'></script> <script type='text/javascript' src='https://www.fis.unm.si/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.2.3' id='elementor-webpack-runtime-js'></script> <script type='text/javascript' src='https://www.fis.unm.si/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.2.3' id='elementor-frontend-modules-js'></script> <script type='text/javascript' src='https://www.fis.unm.si/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.2.1' id='elementor-sticky-js'></script> <script type='text/javascript' id='elementor-pro-frontend-js-before'> var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/www.fis.unm.si\/wp-admin\/admin-ajax.php","nonce":"fe0144bb10","urls":{"assets":"https:\/\/www.fis.unm.si\/wp-content\/plugins\/elementor-pro\/assets\/"},"i18n":{"toc_no_headings_found":"No headings were found on this page."},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"sl_SI","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/www.fis.unm.si\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}}; </script> <script type='text/javascript' src='https://www.fis.unm.si/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.2.1' id='elementor-pro-frontend-js'></script> <script type='text/javascript' src='https://www.fis.unm.si/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2' id='elementor-waypoints-js'></script> <script type='text/javascript' src='https://www.fis.unm.si/wp-includes/js/jquery/ui/core.min.js?ver=1.12.1' id='jquery-ui-core-js'></script> <script type='text/javascript' src='https://www.fis.unm.si/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6' id='swiper-js'></script> <script type='text/javascript' src='https://www.fis.unm.si/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=3.2.3' id='share-link-js'></script> <script type='text/javascript' src='https://www.fis.unm.si/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.8.1' id='elementor-dialog-js'></script> <script type='text/javascript' id='elementor-frontend-js-before'> var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile","value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Extra","value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet","value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Extra","value":1365,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1620,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"direction":"min","is_enabled":false}}},"version":"3.2.3","is_static":false,"experimentalFeatures":{"form-submissions":true},"urls":{"assets":"https:\/\/www.fis.unm.si\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":8504,"title":"FI%C5%A0%20%E2%80%93%20Fakulteta%20za%20informacijske%20%C5%A1tudije","excerpt":"","featuredImage":false}}; </script> <script type='text/javascript' src='https://www.fis.unm.si/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.2.3' id='elementor-frontend-js'></script> <script type='text/javascript' src='https://www.fis.unm.si/wp-content/plugins/elementor-pro/assets/js/preloaded-elements-handlers.min.js?ver=3.2.1' id='pro-preloaded-elements-handlers-js'></script> <script type='text/javascript' src='https://www.fis.unm.si/wp-content/plugins/elementor/assets/js/preloaded-modules.min.js?ver=3.2.3' id='preloaded-modules-js'></script></body></html>
